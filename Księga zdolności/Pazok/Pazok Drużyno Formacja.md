@@ -1,0 +1,1 @@
+Pazok dostaje +1Kp za każdego sojusznika który przylega do niego

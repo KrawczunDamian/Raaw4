@@ -11,8 +11,12 @@
             "id": "4c9f1a8f9a448b96",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Mechanika/Statystyki wykresy itp.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Mechanika/Statystyki wykresy itp.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Mechanika/Statystyki wykresy itp.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Mechanika/Statystyki wykresy itp.md"
+              }
             }
           }
         ]
@@ -138,45 +146,45 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "c32b87e257d933b6",
+  "active": "4c9f1a8f9a448b96",
   "lastOpenFiles": [
-    "Gildie/Czarno Czerwoni.md",
+    "PDFy/Populacja_Ras_R4.pdf",
+    "PDFy/Populacja_Ras_R4.pdf.crdownload",
+    "PDFy",
+    "Nowy folder",
+    "Mechanika/Rasy/Aoqi.pdf",
+    "Mechanika/Statystyki wykresy itp.md",
+    "Mechanika/Rasy/Delocjanie.pdf",
+    "Mechanika/Rasy/Delocjanie.pdf.crdownload",
+    "Mechanika/Rasy/Elfy_Oświecone.pdf",
+    "Mechanika/Rasy/Elfy_Oświecone.pdf.crdownload",
+    "Mechanika/Rasy/Elfy_Pierworodne.pdf",
+    "Mechanika/Rasy/Elfy_Pierworodne.pdf.crdownload",
+    "Mechanika/Rasy/Aoqi.md",
+    "Mechanika/Zasady Gry.md",
+    "Księga zdolności/Sir Latrel/Sir Latrel Obronię Cię.md",
+    "Księga zdolności/Sir Latrel/Sir Latrel Słońce.md",
+    "Księga zdolności/Wyciągam wnioski.md",
+    "Księga zdolności/Inicjatywa.md",
+    "Księga zdolności/Unik.md",
+    "Księga zdolności/Imrah/Imrah Umiejętny.md",
+    "Księga zdolności/Primus/Primus Atencja Pana.md",
+    "Księga zdolności/Pewny Strzał.md",
+    "Księga zdolności/Riposta.md",
+    "Księga zdolności/Torgen/Torgen Rozbrykany.md",
+    "Księga zdolności/Torgen/Torgen Quick Load.md",
+    "Księga zdolności/Torgen/Torgen Kordynacja.md",
+    "Księga zdolności/Torgen/Torgen Kopyta.md",
+    "Księga zdolności/Torgen/Torgen Delocjańska Szarża.md",
+    "Księga zdolności/Primus/Primus Odnowienie.md",
+    "Księga zdolności/Pazok/Pazok Wir.md",
+    "Księga zdolności/Pazok/Pazok Rzut Toporem.md",
+    "Księga zdolności/Pazok/Pazok Drużyno Formacja.md",
+    "Księga zdolności/Imrah/Imrach Auto 20.md",
+    "Księga zdolności/Doctrinamus/Doctrinamus Miastowy.md",
+    "Księga zdolności/Doctrinamus/Doctrinamus Ja Ci powiem jak było naprawdę.md",
+    "Księga zdolności/Doctrinamus/Doctrinamus Auto 20.md",
     "Untitled.canvas",
-    "Gildie/Wszyscy.md",
-    "Gildie/Brudni.md",
-    "Księga czarów/Cierń.md",
-    "Księga zdolności",
-    "Księga czarów/Sir Latrel/Jam jest Promień.md",
-    "Księga czarów/Sir Latrel/Światło.md",
-    "Księga czarów/Yenthaliana Dal Thaarey/Videre.md",
-    "Księga czarów/Sir Latrel",
-    "Księga czarów/Verum.md",
-    "Księga czarów/Yenthaliana Dal Thaarey",
-    "Księga czarów/Tadhall/Tadhall Uderzeniowa Telekineza.md",
-    "Księga czarów/Pan Czasu/Pan Czasu Candidatus.md",
-    "Księga czarów/Imrah/Imrach Kula Energi.md",
-    "Księga czarów/Pan Czasu",
-    "Księga czarów/Gamma/Reska",
-    "Księga czarów/Gamma",
-    "Księga czarów/Doctrinamus/Doctrinamus Magiczny Ognik.md",
-    "Księga czarów/Imrah",
-    "Księga czarów/Tadhall/Tadhall Obronny Wicher.md",
-    "Księga czarów/Doctrinamus",
-    "Księga czarów/Pomór",
-    "Księga czarów/Tadhall",
-    "Księga czarów/Z1 M8 K8 Podąża za Tobą maksymalnie 3Pierwszy atak nie wchodzi i niszczy jeden WicherUntitledUntitled.md",
-    "Księga czarów/Tadhall/Tadhall Lot Powietrzny.md",
-    "Księga czarów/Sailento.md",
-    "Księga czarów/Pomór/Pomór Zgnilizna.md",
-    "Księga czarów/Pomór/Pomór Rozkład.md",
-    "Księga czarów/Pomór/Pomór Jestem Tobą.md",
-    "Księga czarów/Pomór/Pomór Golem Ożywieniec.md",
-    "Księga czarów/Pan Czasu/Pan Czasu Galim.md",
-    "Księga czarów/Pan Czasu/Pan Czasu Fori.md",
-    "Księga czarów/Imrah/Imrach Telekineza.md",
-    "Księga czarów/Imrah/Imrach Rozdwojenie.md",
-    "Księga czarów/Imrah/Imrach Portal.md",
-    "Księga czarów/Imrah/Imrach Kula Pulsacyjna.md",
     "Foty/Ostateczna Wędrówka w Czasie foto.jpg",
     "Foty/Zabicie Boga Plazmy oraz Śmierć Pomóra foto.jpg",
     "Foty/Finałowa Walka na Arenie foto.jpg",

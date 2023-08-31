@@ -1,0 +1,1 @@
++2 do Wszystkich rzutów w Mieście (po za walką)

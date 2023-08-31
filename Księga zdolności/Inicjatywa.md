@@ -1,0 +1,1 @@
+Decydujesz o swoim miejscu na torze inicjatywy w walce.

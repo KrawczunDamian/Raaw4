@@ -1,0 +1,1 @@
+Gdy stoisz obok sojusznika dodajesz mu +1KP
