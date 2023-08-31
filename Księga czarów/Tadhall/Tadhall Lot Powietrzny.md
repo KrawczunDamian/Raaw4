@@ -1,0 +1,1 @@
+ZX M10 K12 Lecisz K6 kratek

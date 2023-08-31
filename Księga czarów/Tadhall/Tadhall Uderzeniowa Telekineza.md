@@ -1,0 +1,1 @@
+Z 5 M8 K10 K6 oraz przesuń postać o k4

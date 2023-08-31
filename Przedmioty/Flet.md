@@ -1,0 +1,2 @@
+![[flet foto.jpg]]
+#Przedmioty 

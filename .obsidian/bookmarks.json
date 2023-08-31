@@ -1,0 +1,66 @@
+{
+  "items": [
+    {
+      "type": "graph",
+      "ctime": 1693470962942,
+      "title": "Drużyna",
+      "options": {
+        "collapse-filter": false,
+        "search": "path:druż",
+        "showTags": false,
+        "showAttachments": false,
+        "hideUnresolved": false,
+        "showOrphans": true,
+        "collapse-color-groups": false,
+        "colorGroups": [
+          {
+            "query": "path:Drużyna",
+            "color": {
+              "a": 1,
+              "rgb": 14701138
+            }
+          }
+        ],
+        "collapse-display": false,
+        "showArrow": false,
+        "textFadeMultiplier": 0,
+        "nodeSizeMultiplier": 1,
+        "lineSizeMultiplier": 1,
+        "collapse-forces": false,
+        "centerStrength": 0.518713248970312,
+        "repelStrength": 10,
+        "linkStrength": 1,
+        "linkDistance": 250,
+        "scale": 0.7132754626224421,
+        "close": false
+      }
+    },
+    {
+      "type": "graph",
+      "ctime": 1693471376527,
+      "title": "Drużyna bez martwych",
+      "options": {
+        "collapse-filter": false,
+        "search": "path:\"Drużyna\" -file:†",
+        "showTags": false,
+        "showAttachments": false,
+        "hideUnresolved": false,
+        "showOrphans": true,
+        "collapse-color-groups": false,
+        "colorGroups": [],
+        "collapse-display": false,
+        "showArrow": false,
+        "textFadeMultiplier": 0,
+        "nodeSizeMultiplier": 1,
+        "lineSizeMultiplier": 1,
+        "collapse-forces": false,
+        "centerStrength": 0.518713248970312,
+        "repelStrength": 10,
+        "linkStrength": 1,
+        "linkDistance": 250,
+        "scale": 0.7132754626224421,
+        "close": false
+      }
+    }
+  ]
+}

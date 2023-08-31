@@ -1,0 +1,191 @@
+{
+  "main": {
+    "id": "0f1cd97a3f8e998f",
+    "type": "split",
+    "children": [
+      {
+        "id": "968427e70f0be530",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4c9f1a8f9a448b96",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "e521d95efe0608e3",
+    "type": "split",
+    "children": [
+      {
+        "id": "5a4a1cf15190966a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c32b87e257d933b6",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "293557513392668d",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "5d71d21ccde55af9",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "4de741d3ab701789",
+    "type": "split",
+    "children": [
+      {
+        "id": "7e2a0024f8b055dd",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b6147de698c2d68c",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "5cd046e0ff8ed054",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "db6c4801e9e56dbc",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "14616f74ac5d439b",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "audio-recorder:Start/stop recording": false
+    }
+  },
+  "active": "c32b87e257d933b6",
+  "lastOpenFiles": [
+    "Gildie/Czarno Czerwoni.md",
+    "Untitled.canvas",
+    "Gildie/Wszyscy.md",
+    "Gildie/Brudni.md",
+    "Księga czarów/Cierń.md",
+    "Księga zdolności",
+    "Księga czarów/Sir Latrel/Jam jest Promień.md",
+    "Księga czarów/Sir Latrel/Światło.md",
+    "Księga czarów/Yenthaliana Dal Thaarey/Videre.md",
+    "Księga czarów/Sir Latrel",
+    "Księga czarów/Verum.md",
+    "Księga czarów/Yenthaliana Dal Thaarey",
+    "Księga czarów/Tadhall/Tadhall Uderzeniowa Telekineza.md",
+    "Księga czarów/Pan Czasu/Pan Czasu Candidatus.md",
+    "Księga czarów/Imrah/Imrach Kula Energi.md",
+    "Księga czarów/Pan Czasu",
+    "Księga czarów/Gamma/Reska",
+    "Księga czarów/Gamma",
+    "Księga czarów/Doctrinamus/Doctrinamus Magiczny Ognik.md",
+    "Księga czarów/Imrah",
+    "Księga czarów/Tadhall/Tadhall Obronny Wicher.md",
+    "Księga czarów/Doctrinamus",
+    "Księga czarów/Pomór",
+    "Księga czarów/Tadhall",
+    "Księga czarów/Z1 M8 K8 Podąża za Tobą maksymalnie 3Pierwszy atak nie wchodzi i niszczy jeden WicherUntitledUntitled.md",
+    "Księga czarów/Tadhall/Tadhall Lot Powietrzny.md",
+    "Księga czarów/Sailento.md",
+    "Księga czarów/Pomór/Pomór Zgnilizna.md",
+    "Księga czarów/Pomór/Pomór Rozkład.md",
+    "Księga czarów/Pomór/Pomór Jestem Tobą.md",
+    "Księga czarów/Pomór/Pomór Golem Ożywieniec.md",
+    "Księga czarów/Pan Czasu/Pan Czasu Galim.md",
+    "Księga czarów/Pan Czasu/Pan Czasu Fori.md",
+    "Księga czarów/Imrah/Imrach Telekineza.md",
+    "Księga czarów/Imrah/Imrach Rozdwojenie.md",
+    "Księga czarów/Imrah/Imrach Portal.md",
+    "Księga czarów/Imrah/Imrach Kula Pulsacyjna.md",
+    "Foty/Ostateczna Wędrówka w Czasie foto.jpg",
+    "Foty/Zabicie Boga Plazmy oraz Śmierć Pomóra foto.jpg",
+    "Foty/Finałowa Walka na Arenie foto.jpg",
+    "Foty/Śmierć Orronara foto.jpg",
+    "Foty/Bunt w Brolasel foto.jpg",
+    "Foty/Krwawy Tydzień foto.jpg",
+    "Foty/Czarno Czerwoni logo foto.jpg",
+    "Foty/Tartaros foto.png",
+    "Foty/Brudni foto.jpg",
+    "Foty/Wszyscy foto.jpg"
+  ]
+}
