@@ -11,12 +11,8 @@
             "id": "31ae845f47707c26",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Drużyna/Pan Rapis.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           },
           {
@@ -30,9 +26,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "2f75ac165235f7b1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "New test file git beep.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -98,7 +106,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Postaci/Pan Czasu (Outdated).md",
+            "file": "New test file git beep.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -115,7 +123,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Postaci/Pan Czasu (Outdated).md",
+            "file": "New test file git beep.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -127,7 +135,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Postaci/Pan Czasu (Outdated).md"
+            "file": "New test file git beep.md"
           }
         }
       }
@@ -145,14 +153,15 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "61771454cc5647fe",
+  "active": "7d631a146a7d6404",
   "lastOpenFiles": [
-    "Drużyna/Pan Rapis.md",
+    "Zbroje/Dusza Protektora.md",
+    "New test file git beep.md",
     "Postaci/Pan Czasu (Outdated).md",
+    "Drużyna/Pan Rapis.md",
     "Postaci/Abyss.md",
     "Drużyna/Ergandella.md",
     "Drużyna/Giliana.md",
-    "Bronie/Oko Pajmona.md",
-    "Zbroje/Dusza Protektora.md"
+    "Bronie/Oko Pajmona.md"
   ]
 }
