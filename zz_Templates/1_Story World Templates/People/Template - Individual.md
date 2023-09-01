@@ -1,19 +1,17 @@
 ---
-NpcName: Maciek
+Imie: Maciek
 ImportedOn: Saturday, 18 December 2021 8:41:47 PM
 Tags: Category/Individual
-Alignment: Neutral
-Gender: Male
-Race: Human
-Class: Barbarian
-Age: Adult
-Challenge: CR 1
-Character-Role: Friend
-Condition: Dead
-Appearance-Traits: Stylish
-Social-Traits: Bossy
-Mental-Traits: Ambitious
-Expertise: Administrative
+Przysposobienie: Neutralne Złowrogie Przyjazne
+Płeć: Mężczyzna Kobieta Inne
+Rasa: Aoq Delocjanin Elf Oświecony Elf Pierworodny Felpurr Goblin Ird Krasonlud Ladończyk Ork Raawjańczyk Skaven Xerabin Yordl Inne
+Wiek: Dziecko Nastolatek Dorosły Starzec
+NastawienieDoNas: Wrogi Neutralny Sojusznik Przyjaciel
+Stan: Zdrowy Ranny Umierający Zaginiony Uznany za zmarłego Chory Zombie
+CechyWyglądu: Stylowy, Bogaty, Schludny, Brudny, Niechlujny]
+CechySpołeczne: Rządzący, Uległy, Współpracujący, Pomocny, Opryskliwy
+CechyCharakteru: Miły, Uczynny, Mądry, Inteligentny, Wesoły, Smutny, Poważny
+Ekspertyza: [Akrobatyka, Skradanie, itd.]
 Status-Traits: Lucky
 Physical-Traits: Clumsy
 Personality-Traits: Anxious
@@ -27,46 +25,76 @@ next:
   - Template - Group List
 RWtopicId: Topic_10
 ---
-# Template - Individual
-## Overview
-```dataview
-LIST alignment 
-FROM ""
-WHERE file.name = NpcName 
+
+```dataviewjs
+let pg = dv.current();
+dv.header(1, pg.Imie);
 ```
-**Alignment**: Przeciw Jedynemu Z Jedynym Neutralny
+## Opis
 
-**Gender**: Male Female
+```dataviewjs
+let pg = dv.current();
+dv.paragraph('**Przysposobienie**: ' + pg.przysposobienie );
+```
+```dataviewjs
+let pg = dv.current();
+dv.paragraph('**Płeć**: ' + pg.płeć );
+```
+```dataviewjs
+let pg = dv.current();
+dv.paragraph('**Rasa**: ' + pg.Rasa );
+```
+```dataviewjs
+let pg = dv.current();
+dv.paragraph('**Wiek**: ' + pg.Wiek );
+```
+```dataviewjs
+let pg = dv.current();
+dv.paragraph('**Nastawienie do nas**: ' + pg.NastawienieDoNas );
+```
+```dataviewjs
+let pg = dv.current();
+dv.paragraph('**Stan**: ' + pg.Stan );
+```
+```dataviewjs
+let pg = dv.current();
+dv.paragraph('**Cechy wyglądu**: ' + pg.CechyWyglądu );
+```
+```dataviewjs
+let pg = dv.current();
+dv.paragraph('**Cechy społeczne**: ' + pg.CechySpołeczne );
+```
+```dataviewjs
+let pg = dv.current();
+dv.paragraph('**Cechy charakteru**: ' + pg.CechyCharakteru );
+```
+```dataviewjs
+let pg = dv.current();
+dv.paragraph('**Ekspertyza**:');
+dv.list(pg.Ekspertyza);
+```
 
-**Race**: Aoqi Delocjan Elf Oświecony Elf Pierworodny Felpurr Goblin Ird Krasnolud Ladończyk Ork Raawjańczyk Skaven Xerabin Yordl Inny
+### Fotka
 
-**Class**: ???
-
-**Age**: Dziecko Młodzieniec Dorosły Starzec
-
-**Challenge**: ???
-
-**Character Role**: Friend, Adversary, Neutral, Main Character, Supporting Character, Color, Possible Rival, Possible Romance
-
-**Condition**: Dead, Dying, Injured, Missing, Presumed Dead, Sick, Undead
-
-### Placeholder Portrait
-![ [TutajNazwaFotki|300] ]
+```dataviewjs
+let pg = dv.current();
+let imagename = pg.Imie + ' fota.jpg';
+dv.paragraph('![[' + imagename + '|300]]');
+```
 
 
-## Profile
+## Profil
 
 
 | Siła | Zręczność | Budowa | Inteligencja | Rzemiosło | Sztuka Przetrwania |
 |---|---|---|---|---|---|
 | 10(+0) | 10(+0) | 10(+0) | 10(+0) | 10(+0) | 10(+0) |
 
-Tego nie chcę mieć to wywalam
 
-## Story
+## Historia
 Placeholder
 
-## Motivation and Philosophy
+## Motywacja i Filozofia
 **Mental Traits**: Ambitious, Cautious, Complacent, Courageous, Cowardly, Decisive, Impatient, Independent, Intelligent, Religious, Skillful, Stupid, Superstitious, Tenacious, Adaptive, Analytical, Creative, Patient, Perceptive, Conformist, Emotional, Inattentive, Incompetent, Indecisive, Reckless, Secular, Skeptical, Uninventive
 
 Placeholder

@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "f6087b5cc0366962",
+        "id": "170e765f6a927b41",
         "type": "tabs",
         "children": [
           {
-            "id": "497bb44d2e67245a",
+            "id": "18a0229673ebf382",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -18,113 +18,73 @@
                   "eState": "{}"
                 },
                 {
-                  "title": "Maciek",
+                  "title": "Tas",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Postaci/Maciek.md\",\"mode\":\"source\",\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":73,\"ch\":0},\"to\":{\"line\":73,\"ch\":0}},\"scroll\":23.599873976055452}"
-                },
-                {
-                  "title": "Champion",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Postaci/Champion.md\",\"mode\":\"preview\",\"source\":false}}",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Postaci/Tas.md\",\"mode\":\"preview\",\"source\":false}}",
                   "eState": "{}"
                 },
                 {
-                  "title": "Chleban Tadeo",
+                  "title": "Wgór",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Postaci/Chleban Tadeo.md\",\"mode\":\"preview\",\"source\":false}}",
-                  "eState": "{}"
-                },
-                {
-                  "title": "Elring",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Postaci/Elring.md\",\"mode\":\"preview\",\"source\":false}}",
-                  "eState": "{}"
-                },
-                {
-                  "title": "Fizban†",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Postaci/Fizban†.md\",\"mode\":\"preview\",\"source\":false}}",
-                  "eState": "{}"
-                },
-                {
-                  "title": "Jarmar Z DżinkBinów",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Postaci/Jarmar Z DżinkBinów.md\",\"mode\":\"preview\",\"source\":false}}",
-                  "eState": "{}"
-                },
-                {
-                  "title": "Kula†",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Postaci/Kula†.md\",\"mode\":\"preview\",\"source\":false}}",
-                  "eState": "{}"
-                },
-                {
-                  "title": "Pan Czasu (Outdated)",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Postaci/Pan Czasu (Outdated).md\",\"mode\":\"preview\",\"source\":false}}",
-                  "eState": "{}"
-                },
-                {
-                  "title": "Qiren Tolk",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Postaci/Qiren Tolk.md\",\"mode\":\"preview\",\"source\":false}}",
-                  "eState": "{}"
-                },
-                {
-                  "title": "Pani Yordlka",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Postaci/Pani Yordlka.md\",\"mode\":\"preview\",\"source\":false}}",
-                  "eState": "{}"
-                },
-                {
-                  "title": "Pandorum",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Postaci/Pandorum.md\",\"mode\":\"preview\",\"source\":false}}",
-                  "eState": "{}"
-                },
-                {
-                  "title": "Pani Yordlka",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Postaci/Pani Yordlka.md\",\"mode\":\"preview\",\"source\":false}}",
-                  "eState": "{}"
-                },
-                {
-                  "title": "Qiren Tolk",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Postaci/Qiren Tolk.md\",\"mode\":\"preview\",\"source\":false}}",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Postaci/Wgór.md\",\"mode\":\"preview\",\"source\":false}}",
                   "eState": "{}"
                 },
                 {
                   "title": "Template - Individual",
                   "icon": "lucide-file",
                   "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"zz_Templates/1_Story World Templates/People/Template - Individual.md\",\"mode\":\"preview\",\"source\":false}}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "Template - Deity",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"zz_Templates/1_Story World Templates/People/Template - Deity.md\",\"mode\":\"preview\",\"source\":false}}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "Template - Cast List",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"zz_Templates/1_Story World Templates/People/Template - Cast List.md\",\"mode\":\"preview\",\"source\":false}}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "Maciek",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Postaci/Maciek.md\",\"mode\":\"preview\",\"source\":false}}",
                   "eState": "{\"scroll\":0}"
                 },
                 {
-                  "title": "Szrama†",
+                  "title": "Template - Deity",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Postaci/Szrama†.md\",\"mode\":\"source\",\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"zz_Templates/1_Story World Templates/People/Template - Deity.md\",\"mode\":\"preview\",\"source\":false}}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "Maciek",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Postaci/Maciek.md\",\"mode\":\"preview\",\"source\":false}}",
+                  "eState": "{\"scroll\":0}"
                 },
                 {
                   "title": "Template - Individual",
                   "icon": "lucide-file",
                   "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"zz_Templates/1_Story World Templates/People/Template - Individual.md\",\"mode\":\"source\",\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":88,\"ch\":35},\"to\":{\"line\":88,\"ch\":35}},\"scroll\":71.615234375}"
+                  "eState": "{\"cursor\":{\"from\":{\"line\":25,\"ch\":19},\"to\":{\"line\":25,\"ch\":19}},\"scroll\":0}"
                 },
                 {
-                  "title": "Pani Yordlka",
+                  "title": "Maciek",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Postaci/Pani Yordlka.md\",\"mode\":\"preview\",\"source\":false}}",
-                  "eState": "{\"scroll\":73.71652173913043}"
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Postaci/Maciek.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":141,\"ch\":0}},\"scroll\":121.041015625}"
                 }
               ]
             },
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "z_Foty/Abyss Fota.png"
+                "file": "Postaci/Maciek.md",
+                "mode": "preview",
+                "source": false
               }
             }
           }
@@ -230,7 +190,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "z_Foty/Abyss Fota.png",
+                "file": "Postaci/Maciek.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -256,7 +216,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "z_Foty/Abyss Fota.png",
+                "file": "Postaci/Maciek.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -297,7 +257,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "z_Foty/Abyss Fota.png"
+                "file": "Postaci/Maciek.md"
               }
             }
           },
@@ -340,8 +300,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 395.5,
-    "collapsed": true
+    "width": 395.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -351,9 +310,8 @@
       "daily-notes:Open today's daily note": false,
       "command-palette:Open command palette": false,
       "audio-recorder:Start/stop recording": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false,
       "templates:Insert template": false,
-      "breadcrumbs:Breadcrumbs Visualisation": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
       "obsidian-excalidraw-plugin:Create new drawing": false,
       "fantasy-calendar:Open Large Fantasy Calendar": false,
       "initiative-tracker:Initiative Tracker Encounter Builder": false,
@@ -361,10 +319,21 @@
       "obsidian-5e-statblocks:Open Creature Pane": false
     }
   },
-  "active": "497bb44d2e67245a",
+  "active": "18a0229673ebf382",
   "lastOpenFiles": [
-    "Postaci/Maciek.md",
+    "Postaci/Tas.md",
+    "Postaci/Wgór.md",
     "zz_Templates/1_Story World Templates/People/Template - Individual.md",
+    "zz_Templates/1_Story World Templates/People/Template - Deity.md",
+    "zz_Templates/1_Story World Templates/People/Template - Cast List.md",
+    "Postaci/Maciek.md",
+    "Individual.md",
+    "zz_Templates/1_Story World Templates/Groups/Template - Group List.md",
+    "z_Foty/Maciek fota.jpg",
+    "z_Foty/Aldrime Ino Lor fota.jpg",
+    "z_Foty/Alfa fota.png",
+    "z_Foty/Abyss Fota 1.png",
+    "z_Foty/Abyss Fota.png",
     "Postaci/Champion.md",
     "Postaci/Chleban Tadeo.md",
     "Postaci/Elring.md",
@@ -383,12 +352,6 @@
     "Postaci/Gamma/Iskaram.md",
     "Wydarzenia/Zabicie Boga Plazmy oraz Śmierć Pomóra.md",
     "Wydarzenia/Śmierć Orronara.md",
-    "Wydarzenia/Ostateczna Wędrówka w Czasie.md",
-    "Wydarzenia/Krwawy Tydzień.md",
-    "Wydarzenia/Finałowa Walka na Arenie.md",
-    "Wydarzenia/Bunt w Brolasel.md",
-    "Ekwipunek/Przedmioty/Biały Kamień.md",
-    "Bestiariusz/Bestia spod Pursecji.md",
     "Karty postaci/Krenus karta.pdf",
     "Ekwipunek",
     "Untitled 1",
@@ -405,11 +368,6 @@
     "Untitled 1.canvas",
     "z_Foty/Ostateczna Wędrówka w Czasie foto.jpg",
     "z_Foty/Zabicie Boga Plazmy oraz Śmierć Pomóra foto.jpg",
-    "z_Foty/Finałowa Walka na Arenie foto.jpg",
-    "z_Foty/Śmierć Orronara foto.jpg",
-    "z_Foty/Bunt w Brolasel foto.jpg",
-    "z_Foty/Krwawy Tydzień foto.jpg",
-    "z_Foty/Czarno Czerwoni logo foto.jpg",
-    "z_Foty/Tartaros foto.png"
+    "z_Foty/Finałowa Walka na Arenie foto.jpg"
   ]
 }

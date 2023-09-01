@@ -7,10 +7,7 @@
   "alx-folder-note",
   "folder-note-core",
   "auto-note-mover",
-  "obsidian-admonition",
-  "obsidian-banners",
   "dataview",
-  "breadcrumbs",
   "obsidian-dice-roller",
   "obsidian-excalidraw-plugin",
   "obsidian-excel-to-markdown-table",
@@ -27,5 +24,7 @@
   "table-extended",
   "obsidian-text-format",
   "obsidian-timelines",
-  "obsidian-5e-statblocks"
+  "obsidian-5e-statblocks",
+  "obsidian-admonition",
+  "obsidian-banners"
 ]

@@ -15,18 +15,13 @@ Ekspertyza: [Akrobatyka, Skradanie, itd.]
 Status-Traits: Lucky
 Physical-Traits: Clumsy
 Personality-Traits: Anxious
-parent:
-  - Individual
-up:
-  - Individual
-prev:
-  - Template - Deity
-next:
-  - Template - Group List
-RWtopicId: Topic_10
 ---
-# Template - Individual
-## Overview
+
+```dataviewjs
+let pg = dv.current();
+dv.header(1, pg.Imie);
+```
+## Opis
 
 ```dataviewjs
 let pg = dv.current();
@@ -70,29 +65,27 @@ dv.paragraph('**Ekspertyza**:');
 dv.list(pg.Ekspertyza);
 ```
 
-### Placeholder Portrait
+### Fotka
 
 ```dataviewjs
 let pg = dv.current();
-let imagename = pg.Imie + ' foto.jpg';
+let imagename = pg.Imie + ' fota.jpg';
 dv.paragraph('![[' + imagename + '|300]]');
 ```
-![[Pazok foto.jpg|300]]
 
 
-## Profile
+## Profil
 
 
 | Siła | Zręczność | Budowa | Inteligencja | Rzemiosło | Sztuka Przetrwania |
 |---|---|---|---|---|---|
 | 10(+0) | 10(+0) | 10(+0) | 10(+0) | 10(+0) | 10(+0) |
 
-Tego nie chcę mieć to wywalam
 
-## Story
+## Historia
 Placeholder
 
-## Motivation and Philosophy
+## Motywacja i Filozofia
 **Mental Traits**: Ambitious, Cautious, Complacent, Courageous, Cowardly, Decisive, Impatient, Independent, Intelligent, Religious, Skillful, Stupid, Superstitious, Tenacious, Adaptive, Analytical, Creative, Patient, Perceptive, Conformist, Emotional, Inattentive, Incompetent, Indecisive, Reckless, Secular, Skeptical, Uninventive
 
 Placeholder
