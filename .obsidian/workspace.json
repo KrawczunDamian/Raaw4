@@ -18,6 +18,90 @@
                   "eState": "{}"
                 },
                 {
+                  "title": "Maciek",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Postaci/Maciek.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":73,\"ch\":0},\"to\":{\"line\":73,\"ch\":0}},\"scroll\":23.599873976055452}"
+                },
+                {
+                  "title": "Champion",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Postaci/Champion.md\",\"mode\":\"preview\",\"source\":false}}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "Chleban Tadeo",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Postaci/Chleban Tadeo.md\",\"mode\":\"preview\",\"source\":false}}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "Elring",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Postaci/Elring.md\",\"mode\":\"preview\",\"source\":false}}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "Fizban†",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Postaci/Fizban†.md\",\"mode\":\"preview\",\"source\":false}}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "Jarmar Z DżinkBinów",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Postaci/Jarmar Z DżinkBinów.md\",\"mode\":\"preview\",\"source\":false}}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "Kula†",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Postaci/Kula†.md\",\"mode\":\"preview\",\"source\":false}}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "Pan Czasu (Outdated)",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Postaci/Pan Czasu (Outdated).md\",\"mode\":\"preview\",\"source\":false}}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "Qiren Tolk",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Postaci/Qiren Tolk.md\",\"mode\":\"preview\",\"source\":false}}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "Pani Yordlka",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Postaci/Pani Yordlka.md\",\"mode\":\"preview\",\"source\":false}}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "Pandorum",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Postaci/Pandorum.md\",\"mode\":\"preview\",\"source\":false}}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "Pani Yordlka",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Postaci/Pani Yordlka.md\",\"mode\":\"preview\",\"source\":false}}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "Qiren Tolk",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Postaci/Qiren Tolk.md\",\"mode\":\"preview\",\"source\":false}}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "Template - Individual",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"zz_Templates/1_Story World Templates/People/Template - Individual.md\",\"mode\":\"preview\",\"source\":false}}",
+                  "eState": "{\"scroll\":0}"
+                },
+                {
                   "title": "Szrama†",
                   "icon": "lucide-file",
                   "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Postaci/Szrama†.md\",\"mode\":\"source\",\"source\":false}}",
@@ -38,11 +122,9 @@
               ]
             },
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "zz_Templates/1_Story World Templates/People/Template - Individual.md",
-                "mode": "source",
-                "source": false
+                "file": "z_Foty/Abyss Fota.png"
               }
             }
           }
@@ -148,7 +230,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "zz_Templates/1_Story World Templates/People/Template - Individual.md",
+                "file": "z_Foty/Abyss Fota.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -174,7 +256,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "zz_Templates/1_Story World Templates/People/Template - Individual.md",
+                "file": "z_Foty/Abyss Fota.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -215,7 +297,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "zz_Templates/1_Story World Templates/People/Template - Individual.md"
+                "file": "z_Foty/Abyss Fota.png"
               }
             }
           },
@@ -281,9 +363,19 @@
   },
   "active": "497bb44d2e67245a",
   "lastOpenFiles": [
-    "Postaci/Szrama†.md",
+    "Postaci/Maciek.md",
     "zz_Templates/1_Story World Templates/People/Template - Individual.md",
+    "Postaci/Champion.md",
+    "Postaci/Chleban Tadeo.md",
+    "Postaci/Elring.md",
+    "Postaci/Fizban†.md",
+    "Postaci/Jarmar Z DżinkBinów.md",
+    "Postaci/Kula†.md",
+    "Postaci/Pan Czasu (Outdated).md",
+    "Postaci/Qiren Tolk.md",
     "Postaci/Pani Yordlka.md",
+    "Postaci/Pandorum.md",
+    "Postaci/Szrama†.md",
     "Postaci/Bicz al-Abat.md",
     "Postaci/Aran Ohk.md",
     "Postaci/Ann.md",
@@ -297,22 +389,12 @@
     "Wydarzenia/Bunt w Brolasel.md",
     "Ekwipunek/Przedmioty/Biały Kamień.md",
     "Bestiariusz/Bestia spod Pursecji.md",
-    "Postaci/Yegg†.md",
-    "zz_Templates/3_Markdown/Insert Encounter (Initiative Tracker).md",
     "Karty postaci/Krenus karta.pdf",
-    "zz_Templates/3_Markdown/Handlebar Template (5eTools Monster).md",
     "Ekwipunek",
     "Untitled 1",
-    "Postaci/Abyss from template.md",
-    "z_Assets/Misc/ImagePlaceholder.png.md",
     "z_Assets/Misc",
     "z_Assets",
-    "Aoqi.md",
     "Mechanika/Rasy/Aoqi.pdf",
-    "Mechanika/Rasy/Aoqi.md",
-    "zz_Templates/1_Story World Templates/Events/Template - Quest.md",
-    "zz_Templates/1_Story World Templates/Groups/Template - Group_ Ethnic.md",
-    "zz_Templates/2_Mechanics Gallery/Abilities/Template - Feat.md",
     "zz_Templates/zz_asset-files/ImagePlaceholder.png",
     "zz_Templates/zz_asset-files/MapPlaceholder.png",
     "zz_Templates/zz_asset-files",
