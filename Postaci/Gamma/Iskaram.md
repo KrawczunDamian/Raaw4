@@ -7,4 +7,4 @@ Iskaram nie potrafi zbyt dobrze mówić we wspólnym. Duka i składa proste zdan
 
 Został uratowany przez drużynę Reski z niewoli. Później uratował życie Reski. Sama Abys nakazała mu podążać wraz z Ladończykami. Od chwili opuszczenia domu nie spotkał innych Aoków. Ladończycy rozmawiali przy nim po ladońsku, języku który nie rozumie, twierdzi że z braku zaufania. Przyznał że na rozkaz Garooka doniósł do CC o miejscu przebywania Pazoka. Nie chce być traktowany jak czyjaś własność.
 ![[Iskaram foto.jpg]]
-#Gamma #Aoki 
+#Gamma #Aoqi 

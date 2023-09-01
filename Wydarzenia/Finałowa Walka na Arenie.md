@@ -3,4 +3,4 @@ Walki na Śmierć i życie i śmierć wielkiego Championa Ćwiary to nic w poró
 
 Gdy Zarządce rozrywa strzała dochodzi do wybuchów i część Areny się wali ! To jasne ! to zorganizowana akcja !
 ![[Finałowa Walka na Arenie foto.jpg]]
-#Arena #Walka
+#Arena #Walka #CzarnoCzerwoni 
