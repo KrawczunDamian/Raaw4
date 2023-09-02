@@ -6,5 +6,5 @@ Ostateczna Pętla rozpoczęła się od wielu niejasnych wizji które mogą być 
 
 Na samym końcu wędrówki spotkało się dwóch wrogów Rapis i Pan czasu drużyna postanowiła wesprzeć Pana Czasu tym samym zabijać Rapisa.
 
-![[Ostateczna Wędrówka w Czasie foto.jpg]]
-#GildiaCzasu 
+![[Ostateczna Wędrówka w Czasie fota.jpg]]
+#GildiaCzasu

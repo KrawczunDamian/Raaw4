@@ -5,5 +5,5 @@ To silny eliksir dający niewyobrażalną siłę, koncentrację , wytrzymałoś�
 Można powiedzieć o nim doskonały lecz! jest silnie uzależniający.
 
 Primus po kolejnej dawce bezsprzecznie wykituje.
-![[Fioletowy Eliksir foto.jpg]]
-#Przedmioty #Eliksiry 
+![[Fioletowy Eliksir fota.jpg]]
+#Przedmioty #Eliksiry

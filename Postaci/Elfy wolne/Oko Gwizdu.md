@@ -4,5 +4,5 @@ Jego prawe oko jest uszkodzone dlatego jako jeden z nielicznych Elfów nie korzy
 
 Wygląda na zdycsyplinowanego jego wspólny w mowie jest praktycznie zerowy, znacznie wiecej rozumie. Na wszystko odpowiada Nie, to chyba jego ulubione słowo w języku wspólnym. Pochodzi z plemienia OD.
 
-![[Oko Gwizdu foto.jpg]]
+![[Oko Gwizdu fota.jpg]]
 #ElfyWolne #PlemieOD

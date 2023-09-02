@@ -9,6 +9,6 @@ Po udanym zamachu kontynuuje badania nad Brudnymi aby móc ich wyleczyć.
 To szanowany Krecztorjańczyk  
 Świetnie walczy sztyletami.
 
-![[Gawron foto.jpg]]
-![[Lintal Yerbo foto.jpg]]
+![[Gawron fota.jpg]]
+![[Lintal Yerbo fota.jpg]]
 #Brudni

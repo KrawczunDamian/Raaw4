@@ -6,5 +6,5 @@ Sza zabił jednego z najpotężniejszych Czarno Czerwonych na świecie który mi
 
 Sza na pewno jest świetnym wojownikiem lecz jego największą bronią jest plan działania.
 
-![[Sza foto.jpg]]
+![[Sza fota.jpg]]
 #Felpurr

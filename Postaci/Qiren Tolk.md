@@ -8,5 +8,5 @@ Posiada gigantyczną wiedzę a jego specjalnością są postacie oraz Gildie.
 
 Zna Doctrinamusa oraz Brontrama. Mieszka w Górnym mieście.
 
-![[Qiren Tolk foto.jpg]]
+![[Qiren Tolk fota.jpg]]
 #Brolaser #ElfyOświecone

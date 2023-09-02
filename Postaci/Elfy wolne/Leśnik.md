@@ -2,5 +2,5 @@ Leśnik to Ent mieszkający wśród Elfów Pierworodnych. Jest odpowiedzialny za
 
 Mimo że jest Entem w pełni przestrzega prawa Elfów.
 
-![[Leśnik foto.jpg]]
-#ElfyWolne #enty 
+![[Leśnik fota.jpg]]
+#ElfyWolne #enty

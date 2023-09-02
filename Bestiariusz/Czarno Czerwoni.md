@@ -9,5 +9,5 @@ PZ 30
 PP ?  
 S 6
 
-![[Czarno czerwoni foto.jpg]]
-#CzarnoCzerwoni 
+![[Czarno czerwoni fota.jpg]]
+#CzarnoCzerwoni

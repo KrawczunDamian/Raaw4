@@ -10,5 +10,5 @@ Podobnie jak Ojciec zaskarbiła sobie sympatię żołnierzy choć jej sposób do
 
 To obecnie najmłodsza setniczka Czarni Czerwonych
 
-![[Qaisa Solnai foto.jpg]]
+![[Qaisa Solnai fota.jpg]]
 #CzarnoCzerwoni #Hookdale #Setnik

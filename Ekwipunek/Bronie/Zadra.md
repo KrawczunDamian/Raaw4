@@ -1,3 +1,3 @@
 ?
-![[Zadra foto.jpg]]
-#Bronie 
+![[Zadra fota.jpg]]
+#Bronie

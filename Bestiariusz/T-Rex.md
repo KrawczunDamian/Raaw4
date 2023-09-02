@@ -6,5 +6,5 @@ Pz
 KP  
 S
 
-![[T-rex foto.jpg]]
-#Wyspa 
+![[T-rex fota.jpg]]
+#Wyspa

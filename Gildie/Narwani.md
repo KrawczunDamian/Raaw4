@@ -10,6 +10,6 @@ Jest Dam Bum ork z Szarsze lub Hepsila Delocjnaka z Hookdale .
 
 Narwani oficjalnie prowadza wojne z Gildia nowe Horyzonty z Pazokiem na czele oraz z Gildia Wszyscy .
 
-![[Narwani foto.jpg]]
+![[Narwani fota.jpg]]
 ![[Narwani pdf.pdf]]
-#Narwani 
+#Narwani

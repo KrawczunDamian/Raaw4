@@ -15,5 +15,5 @@ Gdy juz otrzymał od niego dość mocy porzucił go aby sam stać sie przywódc�
 
 Zginał zabity przez Gawrona oraz drużyny.
 
-![[Pomór foto.jpg]]
-#Brudni #Mag 
+![[Pomór fota.jpg]]
+#Brudni #Mag

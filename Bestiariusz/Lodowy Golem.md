@@ -9,4 +9,4 @@ S4
 PZ?  
 PP?  
 KP15
-![[Lodowy golem foto.jpg]]
+![[Lodowy golem fota.jpg]]

@@ -4,5 +4,5 @@ Jego marzeniem jest wygrać turniej aby móc opuścić Arenę do której wzięto
 
 Jego cała rasa prawdopodobnie wymarła.
 
-![[Kula foto.jpg]]
-#Arena 
+![[Kula fota.jpg]]
+#Arena

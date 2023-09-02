@@ -7,5 +7,5 @@ Mądry i rozsądny nie ingeruje mocno w Brudnych bardziej stara się nim pomóc 
 Dużo wie zwłaszcza o końcu świata i wstąpieniach oraz Jednym Bogu.  
 Prawdopodobnie ktoś kto żył wcześniej.
 
-![[Mówca foto.jpg]]
-#Brudni #Bóg 
+![[Mówca fota.jpg]]
+#Brudni #Bóg

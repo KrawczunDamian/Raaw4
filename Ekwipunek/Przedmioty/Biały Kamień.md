@@ -1,3 +1,2 @@
-
-![[Biały kamień foto.jpg]]
-#Przedmioty 
+![[Biały kamień fota.jpg]]
+#Przedmioty

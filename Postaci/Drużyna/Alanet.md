@@ -10,5 +10,5 @@ Schwytany przez Narwanych został Torturowany praktycznie do śmierci lecz nigdy
 Alanet to wierny cslonek Gildii który każde zadanie wykonuje ochoczo i bez zbędnych pytań .  
 Jest zapatrzony w Bohaterow lecz ostatnio dużo częściej prsebywa z Rapisem.
 
-![[Allanet foto.jpg]]
+![[Allanet fota.jpg]]
 #GildiaCzasu #Przyjaciel #Drużyna #Raawjańczyk

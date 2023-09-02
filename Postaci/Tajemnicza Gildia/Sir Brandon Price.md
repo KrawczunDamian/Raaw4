@@ -14,5 +14,5 @@ Członek Gildii w której jest Aldrime ino Lor oraz Haiton Tawakani.
 
 Yentaliana przybyła ostrzec go iz możliwe że jest kolejnym celem Vurbina, który poluje na członków Gildii
 
-![[Sir brandon Price foto.jpg]]
-#TajemniczaGildia 
+![[Sir brandon Price fota.jpg]]
+#TajemniczaGildia

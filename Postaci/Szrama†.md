@@ -13,5 +13,5 @@ Tka Intrygę przez którą jego trener Ćwiara jest wystawiony do walki a on sam
 Gdy Arena wybucha wszyscy uciekają z wyspy spotyka Pandorum na którego się rzuca. Walka jest krótka Szrama pada na ziemię a jego prawe ramię zostaje odcięte.
 
 Gdy drużyna ucieka na statek Szrama prosi o pomoc Primusa ten zrzuca go do wody.
-![[Szrama foto.jpg]]
-#Goblin #Arena 
+![[Szrama fota.jpg]]
+#Goblin #Arena

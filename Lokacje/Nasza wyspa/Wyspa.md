@@ -7,5 +7,5 @@ Znajduję się na niej również ukryta piracka jaskinia.
 To nowy dom Mroźnoksieżnika , przez obawy iz Pomor wejdzie w sojusz z Gildia Tartaros i sprzeda miejsce Mroźnoksieżnika ten zmianił swoją baze na Wyspę Hej Hejny .
 
 Pomimo poczatkowych sporów jakoś udaje się żyć nim w harmoni .
-![[Wyspa foto.jpg]]
-#Wyspa #Drużyna #GildiaCzasu 
+![[Wyspa fota.jpg]]
+#Wyspa #Drużyna #GildiaCzasu

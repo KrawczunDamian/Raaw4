@@ -45,7 +45,7 @@ RWtopicId: Topic_10
 **Condition**: Missing
 
 ### Placeholder Portrait
-![[Ann foto.jpg|300]]
+![[Ann fota.jpg|300]]
 
 
 ## Profile

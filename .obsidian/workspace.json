@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "44e258c40d9d4b4f",
+        "id": "e18c3f70ae344965",
         "type": "tabs",
         "children": [
           {
-            "id": "8adc52193cc54e7b",
+            "id": "327137d8de58f556",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -16,13 +16,25 @@
                 {
                   "state": "{}",
                   "eState": "{}"
+                },
+                {
+                  "title": "Krecztor Posiadłość Hitona Tawakaniego 1 fota",
+                  "icon": "lucide-image",
+                  "state": "{\"type\":\"image\",\"state\":{\"file\":\"z_Foty/Krecztor Posiadłość Hitona Tawakaniego 1 fota.jpg\"}}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "Postaci",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Postaci/Postaci.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":3.1625174302764747}"
                 }
               ]
             },
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Postaci/AAA Maciek.md",
+                "file": "Postaci/Postaci.md",
                 "mode": "source",
                 "source": false
               }
@@ -75,7 +87,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#Aoki",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -130,7 +142,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Postaci/AAA Maciek.md",
+                "file": "Postaci/Postaci.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -156,7 +168,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Postaci/AAA Maciek.md",
+                "file": "Postaci/Postaci.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -197,7 +209,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Postaci/AAA Maciek.md"
+                "file": "Postaci/Postaci.md"
               }
             }
           },
@@ -267,7 +279,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Postaci/AAA Maciek.md"
+                "file": "Postaci/Postaci.md"
               }
             }
           },
@@ -293,7 +305,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 526.5
+    "width": 425.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -305,16 +317,35 @@
       "audio-recorder:Start/stop recording": false,
       "templates:Insert template": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false,
       "fantasy-calendar:Open Large Fantasy Calendar": false,
       "initiative-tracker:Initiative Tracker Encounter Builder": false,
       "obsidian-leaflet-plugin:Open Leaflet Map": false,
       "obsidian-5e-statblocks:Open Creature Pane": false
     }
   },
-  "active": "8adc52193cc54e7b",
+  "active": "327137d8de58f556",
   "lastOpenFiles": [
+    "z_Foty/Krecztor Posiadłość Hitona Tawakaniego 1 fota.jpg",
+    "Postaci/Postaci.md",
+    "Postaci/Szrama†.md",
+    "Postaci/Szlam.md",
+    "z_Foty/Święte miejsce Elfów fota.jpg",
+    "z_Foty/Śmierć Orronara fota.jpg",
+    "z_Foty/Ćwiara fota.jpg",
+    "z_Foty/Qiren Tolk fota.jpg",
+    "z_Foty/Qaisa Solnai fota.jpg",
+    "z_Foty/Pursecja fota.jpg",
+    "z_Foty/Proteza Primusa fota.jpg",
+    "z_Foty/Pozostałości po Championie noga fota.jpg",
+    "z_Foty/Pozostałości po Championie hełm fota.jpg",
+    "z_Foty/Pomór fota.jpg",
+    "z_Foty/Nowy folder",
+    "z_Foty/backup",
+    "z_Foty/Narwani pdf.pdf",
+    "Abyss fota.jpg.md",
+    "Postaci/Abyss.md",
     "Postaci/AAA Maciek.md",
+    "Postaci/Qutardus Hal Novemerta†.md",
     "Postaci/Maciek.md",
     "zz_Templates/1_Story World Templates/People/Template - Individual.md",
     "zz_Templates/1_Story World Templates/People/Template - Deity.md",
@@ -327,11 +358,6 @@
     "zz_Templates/1_Story World Templates/People/Template - Cast List.md",
     "Individual.md",
     "zz_Templates/1_Story World Templates/Groups/Template - Group List.md",
-    "z_Foty/Maciek fota.jpg",
-    "z_Foty/Aldrime Ino Lor fota.jpg",
-    "z_Foty/Alfa fota.png",
-    "z_Foty/Abyss Fota 1.png",
-    "z_Foty/Abyss Fota.png",
     "Postaci/Champion.md",
     "Postaci/Chleban Tadeo.md",
     "Postaci/Elring.md",
@@ -339,28 +365,13 @@
     "Postaci/Jarmar Z DżinkBinów.md",
     "Postaci/Pan Czasu (Outdated).md",
     "Postaci/Qiren Tolk.md",
-    "Postaci/Pani Yordlka.md",
-    "Postaci/Pandorum.md",
-    "Postaci/Szrama†.md",
-    "Postaci/Bicz al-Abat.md",
-    "Postaci/Aran Ohk.md",
-    "Postaci/Ann.md",
-    "Postaci/Abyss.md",
     "Karty postaci/Krenus karta.pdf",
     "Ekwipunek",
     "Untitled 1",
     "z_Assets/Misc",
     "z_Assets",
     "Mechanika/Rasy/Aoqi.pdf",
-    "zz_Templates/zz_asset-files/ImagePlaceholder.png",
-    "zz_Templates/zz_asset-files/MapPlaceholder.png",
-    "zz_Templates/zz_asset-files",
-    "zz_Templates/3_Markdown/Insert Rollable Table",
-    "zz_Templates/3_Markdown/Combat Templates",
     "Untitled.canvas",
-    "Untitled 1.canvas",
-    "z_Foty/Ostateczna Wędrówka w Czasie foto.jpg",
-    "z_Foty/Zabicie Boga Plazmy oraz Śmierć Pomóra foto.jpg",
-    "z_Foty/Finałowa Walka na Arenie foto.jpg"
+    "Untitled 1.canvas"
   ]
 }

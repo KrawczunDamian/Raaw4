@@ -7,5 +7,5 @@ Zdradził [[Orronar†||Orronara]] i dołączył do [[Bakin||Bakina]]
 
 Za zdradę Orronar go torturował i zabił przywieszając jego ciało na sufit Wymiotu.
 
-![[Pan Cukierek foto.jpg]]
-#Narwani 
+![[Pan Cukierek fota.jpg]]
+#Narwani

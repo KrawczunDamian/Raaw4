@@ -24,5 +24,5 @@ Zginął tak jak żył szlachetnie pomagając swoim przyjaciołom do końca. Uto
 
 Pochowany w ceremoniale Gildii Wszyscy, Słońce przyjęło go do siebie jako godnego a sam Słoneczny Paladyn poprowadził cała uroczystość.
 
-![[Sir Latrel foto.jpg]]
-#Yordl #Wszyscy #Drużyna #Przyjaciel 
+![[Sir Latrel fota.jpg]]
+#Yordl #Wszyscy #Drużyna #Przyjaciel

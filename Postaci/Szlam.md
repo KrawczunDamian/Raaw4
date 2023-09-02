@@ -2,5 +2,5 @@ Szlam to rasa stworzona przez was samych w przyszłości, która ma walczyć z J
 
 Podobno waszym wzorem był Bóg Plazmok. Podarowany przez [[Elring||Elrigna]].
 
-![[Szlam foto.jpg]]
-#Przyszłość 
+![[Szlam fota.jpg]]
+#Przyszłość

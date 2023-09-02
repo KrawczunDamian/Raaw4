@@ -8,5 +8,5 @@ Obrażenia PP zawsze zadają 1dmg mniej jeśli to możliwe obrażenia nie mogą 
 Wieczne Słońce To symbol Przywódcy Gidli Wszyscy Słonecznego Paladyna  
 Na pewno będzie chciał zobaczyć Artefakt
 
-![[Wieczne słońce foto.jpg]]
-#Przedmioty #Wszyscy 
+![[Wieczne słońce fota.jpg]]
+#Przedmioty #Wszyscy

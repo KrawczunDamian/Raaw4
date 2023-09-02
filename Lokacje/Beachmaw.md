@@ -8,4 +8,4 @@ Od pewnego czasu mocno wspiera jak Pazok oddając wszystko co złupi Narwanym.
 
 W krypcie znajdują się portale Irdów jeden z nich należy do Mattera.
 
-![[Beachmaw foto.jpg]]
+![[Beachmaw fota.jpg]]

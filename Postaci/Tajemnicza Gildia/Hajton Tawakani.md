@@ -7,5 +7,5 @@ Ma coś wspólnego z Aldrime Ino Lor lub używają tego samego motta
 
 Na terenie jego posiadłość znajduje się bliźniaczo podobny monolit jak pod Pursecją który został specjalnie zamaskowany bujną roślinnością.
 
-![[Hajton foto.png]]
-#TajemniczaGildia 
+![[Hajton fota.png]]
+#TajemniczaGildia

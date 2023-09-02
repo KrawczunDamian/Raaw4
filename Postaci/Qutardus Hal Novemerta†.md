@@ -5,6 +5,6 @@ Prosi was o to by odszukać i zanieść go do swojego sługi by znowu mógł ży
 
 Pernal zabrał go do swojego Boga aby ten w zamian mógł zabić Rakana. Prawdopodobnie jego żywot się zakończył.
 
-![[Qutardus chained foto.png]]
-![[Qutardus host foto.jpg]]
+![[Qutardus chained fota.png]]
+![[Qutardus host fota.jpg]]
 #Xerabin

@@ -5,4 +5,4 @@ S10
 K8 +2/+2  
 K4 +0/+1 x3 Atak wykonywany przy okazji bez wydawania PA
 
-![[Bestia spod Pursecji foto.jpg]]
+![[Bestia spod Pursecji fota.jpg]]

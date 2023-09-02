@@ -11,4 +11,4 @@ Chleban udał się do najbliższych Koszar wyjaśnić sytuacje podobno pieniądz
 
 Obecny Cel Chlebana to znaleźć pozostałą 4 swoich dzieci .
 
-![[Chleban foto.jpg]]
+![[Chleban fota.jpg]]

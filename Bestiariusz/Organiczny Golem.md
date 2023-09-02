@@ -1,3 +1,3 @@
 Przyzywany przez Pomóra w walce
 
-![[Organiczny golem foto.jpg]]
+![[Organiczny golem fota.jpg]]

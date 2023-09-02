@@ -3,4 +3,4 @@ K?
 Pz  
 KP  
 S?
-![[Monocorn foto.jpg]]
+![[Monocorn fota.jpg]]

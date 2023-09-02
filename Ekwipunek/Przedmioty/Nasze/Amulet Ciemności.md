@@ -6,5 +6,5 @@ Podarował go dla drużyny.
 
 Podobno można w nim schować ciemność a w momencie kryzysu wypuścić cała zebraną ciemność na wolność.
 
-![[Amulet Ciemności foto.jpg]]
-#Przedmioty #Nasze 
+![[Amulet Ciemności fota.jpg]]
+#Przedmioty #Nasze

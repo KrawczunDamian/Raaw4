@@ -22,6 +22,6 @@ Prowadzi Gidlie, najeżdża na karawany Narwanych zabierając nim ich Towary kt�
 
 Dzięki temu wszedł w sojusz z Gildia Wszyscy. Wielu uważa go za ikonę walki z Narwanymi.
 
-![[Pazok foto.jpg]]
+![[Pazok fota.jpg]]
 ![[Pazok_Rybi_Kciuk karta.pdf]]
-#Krasonlud #Przyjaciel #GildiaCzasu #Drużyna 
+#Krasonlud #Przyjaciel #GildiaCzasu #Drużyna

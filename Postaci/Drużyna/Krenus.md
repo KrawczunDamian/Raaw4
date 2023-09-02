@@ -15,6 +15,6 @@ Nie widomo co zrobi czy nie zdradzi ponownie mimoniz widać jak bardso widzi w B
 Udaje niemowę /tylko Bahaterowie wiedzą że mówi. (Przeszłość)
 Mówi jak z pocharatanym językiem.
 
-![[Krenus foto.jpg]]
+![[Krenus fota.jpg]]
 ![[Krenus karta.pdf]]
 #GildiaCzasu #Narwani #Drużyna #Przyjaciel #Yordl

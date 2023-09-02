@@ -15,5 +15,5 @@ Dodatkowo częste napady na karawany Narwanych otworzyły konflikt z nimi .
 Łupy wykorzystują lub sprzedają aby szkolić wojsko gotowe do walki przeciwko Jedynemu .
 
 Ich siedziba znajduje się w Beachmaw a dowodzi nimi Lenart / Słoneczny Paladyn
-![[Wszyscy foto.jpg]]
-#Wszyscy #Sojusz 
+![[Wszyscy fota.jpg]]
+#Wszyscy #Sojusz

@@ -10,4 +10,4 @@ Gdy jednak uda mu się rzucić jakiś czar ofensywny zazwyczaj zabija wroga za j
 
 Został zabity przez MroźnoKsiężnika za to że nie pomógł mu prz 4miedziaki
 
-![[Fizban foto.jpg]]
+![[Fizban fota.jpg]]

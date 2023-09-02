@@ -8,5 +8,5 @@ Bestię zabili Bohaterowie.
 
 Wodza który wiedział wszystko o Bestii oraz o niebezpieczeństwie w momencie zatwierdzania paktu postanowiona zostawić na obecnym stanowisku.
 
-![[Ruda Mogiła foto.jpg]]
-#Pursecja 
+![[Ruda Mogiła fota.jpg]]
+#Pursecja

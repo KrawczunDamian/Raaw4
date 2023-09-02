@@ -4,5 +4,5 @@ Sir Zolen Proch nie mógł wystąpić w finale turnieju strzeleckie w Brolaser.
 
 Na jego tarczy widnieje schowany znak. podobny można było zauważyć u jego towarzyszy.
 
-![[Sir_Zolen_Proch foto.jpg]]
-#Wszyscy 
+![[Sir_Zolen_Proch fota.jpg]]
+#Wszyscy

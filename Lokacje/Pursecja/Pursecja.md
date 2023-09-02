@@ -11,5 +11,5 @@ Czarno Czerwoni opuszczają miasto z rozkazu samego jedynego.
 W Pursecji zostaje tylko Straż Miejska.
 
 Szpital w Pursecji zostaje wysadzony grzebiąc pod sobą 50 Narwanych w tym Orronara
-![[Pursecja foto.jpg]]
-#Pursecja 
+![[Pursecja fota.jpg]]
+#Pursecja

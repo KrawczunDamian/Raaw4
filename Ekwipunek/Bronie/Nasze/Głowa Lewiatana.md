@@ -5,5 +5,5 @@ Raz na sesję
 
 Jeśli właściciel zabije jakąś postać dostaje 2PZ i 1PP  
 a wszyscy sojusznicy 1PZ
-![[Głowa Lewiatana foto.jpg]]
+![[Głowa Lewiatana fota.jpg]]
 #Bronie

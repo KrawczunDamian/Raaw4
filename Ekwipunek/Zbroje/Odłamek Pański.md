@@ -14,5 +14,5 @@ Symbole:
 Wymóg  
 +2Budowy
 
-![[Odłamek Pański foto.jpg]]
+![[Odłamek Pański fota.jpg]]
 #zbroje

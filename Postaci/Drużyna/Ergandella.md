@@ -10,6 +10,6 @@ Ergandella posiada ponoć Dar który może w jednym momencie zmienić postać i 
 Ergandella ukrywa swojs wiarę w Mówce modląc się do niego pokryjomu .
 
 Mimo różnic i czestych sporów zostaje wierna dla Gildii Naowe horyzonty
-![[Erganedla foto.jpg]]
+![[Erganedla fota.jpg]]
 ![[Ergandella karta.pdf]]
 #Drużyna #Przyjaciel #GildiaCzasu #Brudni #Krecztor #Delocjan

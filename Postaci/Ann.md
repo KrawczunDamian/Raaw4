@@ -5,4 +5,4 @@ Czy dla prawdziwej miłości czy dla lepszego życia tego nie wiadomo. Pernal po
 Pernal dzięki [[Pan Rapis|Panu Rapisowi]] dokonuje zemsty zabijając Rakana na jej oczach.  
 A ja raniąc tak aby było oszpecona.
 
-![[Ann foto.jpg]]
+![[Ann fota.jpg]]

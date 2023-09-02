@@ -3,5 +3,5 @@ Drużyna zdradza go knując intrygę przeciwko Orronarowi. Gdy ten wchodzi do Mi
 
 Tak wielki Narwany Orronar dokonuje żywotu zdradzony w spisku przeciwko niemu .
 
-![[Śmierć Orronara foto.jpg]]
-#Narwani #Pursecja #GildiaCzasu 
+![[Śmierć Orronara fota.jpg]]
+#Narwani #Pursecja #GildiaCzasu

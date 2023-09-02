@@ -16,5 +16,5 @@ Gdy może zabić Primusa markuje pudło i prosi aby mógł go zabić jego przyja
 
 Wielu uważa że ostatnia Walka Cwiary była podstawiona, było widoczne iż nie chciał walczyć lecz zginął tak jak chciał jako Gladiator z Toporem w ręku i nigdy.  
 Honorowy Ork który nie zabiłby swojego wychowanka tak będą go wspominać .
-![[Ćwiara foto.png]]
+![[Ćwiara fota.png]]
 #Arena

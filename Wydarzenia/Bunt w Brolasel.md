@@ -5,5 +5,5 @@ To wydarzenie jest największym tak odważnym i bezpośrednim atakiem w Jedynego
 
 Po nim nic nie będzie już takie samo Cierpliwość Jedynego właśnie się skończyła
 
-![[Bunt w Brolasel foto.jpg]]
-#Brolaser #SzarzyMagowie #Tartaros #Jedyny 
+![[Bunt w Brolasel fota.jpg]]
+#Brolaser #SzarzyMagowie #Tartaros #Jedyny

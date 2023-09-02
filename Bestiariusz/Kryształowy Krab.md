@@ -1,2 +1,2 @@
 ?
-![[Kryształowy krab foto.png]]
+![[Kryształowy krab fota.png]]

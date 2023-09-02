@@ -7,5 +7,5 @@ Tuż przed końcem swojej służby porwał mała dziewczynkę opuszczając z ni�
 W przeszłości posiadał Brudne dziecko do czego po wielu latach się przyznał własnoręcznie je zabijając.
 
 Ma żonę Delocjankę.
-![[Misa foto.jpg]]
-#CzarnoCzerwoni #Hookdale 
+![[Misa fota.jpg]]
+#CzarnoCzerwoni #Hookdale

@@ -4,5 +4,5 @@ TieLu to wielkie drzewo w którym mieszkają Elfy zajmują dziury czy sęki.
 
 TieLu odbywają się również najważniejsze decyzje, gdy nie ma Króla wszelkie rozterki rozwiązuje Rada.
 
-![[TieLu foto.jpg]]
-#ElfyWolne 
+![[TieLu fota.jpg]]
+#ElfyWolne

@@ -1,2 +1,2 @@
-![[Eliksir Z Chmurą foto.jpg]]
+![[Eliksir Z Chmurą fota.jpg]]
 #Przedmioty #Eliksiry #Nasze

@@ -7,4 +7,4 @@ Wiele Ras skończyło swój żywot Podczas tej Bitwy.
 
 Zbudowano magiczne Tablice z imionami ofiar dzięki którym Południowa Ćwiartka przetrwała
 
-![[Krwawy Tydzień foto.jpg]]
+![[Krwawy Tydzień fota.jpg]]

@@ -12,5 +12,5 @@ Osoby Brudne przestają wierzyć w Mówcę przez jego brak wsparcia i prowadzeni
 Znajduja oparcie u PoMóra jednego z najwiwkszych byłych uczniów Mówcy.
 
 Pomor gonię z rąk Drużyny a Brudni są w rozsypce.
-![[Brudni foto.jpg]]
-#Brudni 
+![[Brudni fota.jpg]]
+#Brudni

@@ -8,4 +8,4 @@ Areną włada Zarządca.
 
 Podczas zorganizowanej akcji zamachu na Zarządce cała płonie i spora jej część się zapada.
 
-![[Arena foto.jpg]]
+![[Arena fota.jpg]]

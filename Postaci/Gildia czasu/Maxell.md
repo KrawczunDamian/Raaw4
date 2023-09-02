@@ -8,6 +8,6 @@ Po upadku Gidli jako jeden z niewielu wiernych szukał ostatnich członków NH t
 
 Maxell wykorzystuje idealnie najleszą zaletę swojej rasy jaką jest zwinność trenując przy tym siłę. Jego dwa Nunchaku są doskonale znane wśród CC
 
-![[Maxell foto.jpg]]
-![[Maxell broń foto.jpg]]
-#GildiaCzasu #CzarnoCzerwoni #PodwójnyAgent 
+![[Maxell fota.jpg]]
+![[Maxell broń fota.jpg]]
+#GildiaCzasu #CzarnoCzerwoni #PodwójnyAgent

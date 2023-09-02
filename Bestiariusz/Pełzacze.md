@@ -7,4 +7,4 @@ Pz18
 KP11  
 S6
 
-![[Pełzacze foto.jpg]]
+![[Pełzacze fota.jpg]]

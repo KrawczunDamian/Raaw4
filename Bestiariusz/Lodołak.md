@@ -15,4 +15,4 @@ KP8
 Każdy atak zabiera 1Ruchu  
 Po ataku nie można wykonać Biegu ani Szarży
 
-![[Lodołak foto.jpg]]
+![[Lodołak fota.jpg]]

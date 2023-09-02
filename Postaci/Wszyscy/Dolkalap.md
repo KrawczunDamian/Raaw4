@@ -8,5 +8,5 @@ Co rzadkie u Krasnoludów nosi długą pelerynę.
 Mocny w walce wygrał w życiu nie jeden nagi pojedynek.  
 Jego zadaniem jest szukanie Golemich serc dla Słonecznego Paladyna.
 
-![[Dolkalap foto.png]]
+![[Dolkalap fota.png]]
 #Wszyscy

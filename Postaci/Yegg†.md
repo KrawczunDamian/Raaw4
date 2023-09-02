@@ -12,5 +12,5 @@ Yegg okazał się sługą Boga przypominającego Plazmę.
 Przyzywając go aby tajemnica podziemi Karczmy Uczta nie została odkryta.
 
 Zgiął wraz ze swoim Bogiem oraz Xerabinem w walce.
-![[Yegg foto.jpg]]
-#Goblin #Hookdale 
+![[Yegg fota.jpg]]
+#Goblin #Hookdale

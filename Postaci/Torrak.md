@@ -4,5 +4,5 @@ Zwycięzca zeszłorocznego turnieju strzeleckiego oraz faworyt do ponownej wygra
 
 W eliminacjach w Szarsze w finale pokonuje Ranazzira .
 
-![[Torrak foto.jpg]]
+![[Torrak fota.jpg]]
 #Skaven
