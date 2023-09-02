@@ -16,11 +16,6 @@ Status-Traits: Lucky
 Physical-Traits: Clumsy
 Personality-Traits: Anxious
 ---
-
-```dataviewjs
-let pg = dv.current();
-dv.header(1, pg.Imie);
-```
 ## Opis
 
 ```dataviewjs

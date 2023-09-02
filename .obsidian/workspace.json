@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "170e765f6a927b41",
+        "id": "e84ace3266097af6",
         "type": "tabs",
         "children": [
           {
-            "id": "18a0229673ebf382",
+            "id": "8c848186706ff48b",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -16,66 +16,6 @@
                 {
                   "state": "{}",
                   "eState": "{}"
-                },
-                {
-                  "title": "Tas",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Postaci/Tas.md\",\"mode\":\"preview\",\"source\":false}}",
-                  "eState": "{}"
-                },
-                {
-                  "title": "Wgór",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Postaci/Wgór.md\",\"mode\":\"preview\",\"source\":false}}",
-                  "eState": "{}"
-                },
-                {
-                  "title": "Template - Individual",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"zz_Templates/1_Story World Templates/People/Template - Individual.md\",\"mode\":\"preview\",\"source\":false}}",
-                  "eState": "{}"
-                },
-                {
-                  "title": "Template - Deity",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"zz_Templates/1_Story World Templates/People/Template - Deity.md\",\"mode\":\"preview\",\"source\":false}}",
-                  "eState": "{}"
-                },
-                {
-                  "title": "Template - Cast List",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"zz_Templates/1_Story World Templates/People/Template - Cast List.md\",\"mode\":\"preview\",\"source\":false}}",
-                  "eState": "{}"
-                },
-                {
-                  "title": "Maciek",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Postaci/Maciek.md\",\"mode\":\"preview\",\"source\":false}}",
-                  "eState": "{\"scroll\":0}"
-                },
-                {
-                  "title": "Template - Deity",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"zz_Templates/1_Story World Templates/People/Template - Deity.md\",\"mode\":\"preview\",\"source\":false}}",
-                  "eState": "{}"
-                },
-                {
-                  "title": "Maciek",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Postaci/Maciek.md\",\"mode\":\"preview\",\"source\":false}}",
-                  "eState": "{\"scroll\":0}"
-                },
-                {
-                  "title": "Template - Individual",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"zz_Templates/1_Story World Templates/People/Template - Individual.md\",\"mode\":\"source\",\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":25,\"ch\":19},\"to\":{\"line\":25,\"ch\":19}},\"scroll\":0}"
-                },
-                {
-                  "title": "Maciek",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Postaci/Maciek.md\",\"mode\":\"source\",\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":141,\"ch\":0}},\"scroll\":121.041015625}"
                 }
               ]
             },
@@ -294,13 +234,49 @@
               "type": "FANTASY_CALENDAR",
               "state": {}
             }
+          },
+          {
+            "id": "d9e465120c3cb525",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "initiative-tracker-view",
+              "state": {}
+            }
+          },
+          {
+            "id": "e317cc7e6315b42d",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "file-properties",
+              "state": {
+                "file": "Postaci/Maciek.md"
+              }
+            }
           }
-        ],
-        "currentTab": 5
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 395.5
+    "width": 526.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -319,14 +295,18 @@
       "obsidian-5e-statblocks:Open Creature Pane": false
     }
   },
-  "active": "18a0229673ebf382",
+  "active": "8c848186706ff48b",
   "lastOpenFiles": [
+    "Postaci/Maciek.md",
+    "2023-09-02.md",
+    "Excalidraw/Drawing 2023-09-02 06.28.12.excalidraw.md",
+    "Excalidraw",
+    "zz_Templates/1_Story World Templates/People/Template - Individual.md",
+    "Postaci/Kula†.md",
     "Postaci/Tas.md",
     "Postaci/Wgór.md",
-    "zz_Templates/1_Story World Templates/People/Template - Individual.md",
     "zz_Templates/1_Story World Templates/People/Template - Deity.md",
     "zz_Templates/1_Story World Templates/People/Template - Cast List.md",
-    "Postaci/Maciek.md",
     "Individual.md",
     "zz_Templates/1_Story World Templates/Groups/Template - Group List.md",
     "z_Foty/Maciek fota.jpg",
@@ -339,7 +319,6 @@
     "Postaci/Elring.md",
     "Postaci/Fizban†.md",
     "Postaci/Jarmar Z DżinkBinów.md",
-    "Postaci/Kula†.md",
     "Postaci/Pan Czasu (Outdated).md",
     "Postaci/Qiren Tolk.md",
     "Postaci/Pani Yordlka.md",
@@ -350,8 +329,6 @@
     "Postaci/Ann.md",
     "Postaci/Abyss.md",
     "Postaci/Gamma/Iskaram.md",
-    "Wydarzenia/Zabicie Boga Plazmy oraz Śmierć Pomóra.md",
-    "Wydarzenia/Śmierć Orronara.md",
     "Karty postaci/Krenus karta.pdf",
     "Ekwipunek",
     "Untitled 1",
@@ -363,7 +340,6 @@
     "zz_Templates/zz_asset-files",
     "zz_Templates/3_Markdown/Insert Rollable Table",
     "zz_Templates/3_Markdown/Combat Templates",
-    "zz_Templates/3_Markdown/Call Out Boxes (Admonition)",
     "Untitled.canvas",
     "Untitled 1.canvas",
     "z_Foty/Ostateczna Wędrówka w Czasie foto.jpg",
