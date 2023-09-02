@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "90708274680f0675",
+        "id": "44e258c40d9d4b4f",
         "type": "tabs",
         "children": [
           {
-            "id": "3b56df8e62e949df",
+            "id": "8adc52193cc54e7b",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -20,8 +20,12 @@
               ]
             },
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Postaci/AAA Maciek.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -126,6 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Postaci/AAA Maciek.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,6 +156,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Postaci/AAA Maciek.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -190,7 +196,9 @@
             },
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Postaci/AAA Maciek.md"
+              }
             }
           },
           {
@@ -258,15 +266,34 @@
             },
             "state": {
               "type": "file-properties",
+              "state": {
+                "file": "Postaci/AAA Maciek.md"
+              }
+            }
+          },
+          {
+            "id": "0da0391df5aff0e5",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "git-view",
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 8
       }
     ],
     "direction": "horizontal",
-    "width": 526.5,
-    "collapsed": true
+    "width": 526.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -285,11 +312,12 @@
       "obsidian-5e-statblocks:Open Creature Pane": false
     }
   },
-  "active": "3b56df8e62e949df",
+  "active": "8adc52193cc54e7b",
   "lastOpenFiles": [
+    "Postaci/AAA Maciek.md",
+    "Postaci/Maciek.md",
     "zz_Templates/1_Story World Templates/People/Template - Individual.md",
     "zz_Templates/1_Story World Templates/People/Template - Deity.md",
-    "Postaci/Maciek.md",
     "2023-09-02.md",
     "Excalidraw/Drawing 2023-09-02 06.28.12.excalidraw.md",
     "Excalidraw",
@@ -318,7 +346,6 @@
     "Postaci/Aran Ohk.md",
     "Postaci/Ann.md",
     "Postaci/Abyss.md",
-    "Postaci/Gamma/Iskaram.md",
     "Karty postaci/Krenus karta.pdf",
     "Ekwipunek",
     "Untitled 1",
