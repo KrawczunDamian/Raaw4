@@ -1,0 +1,17 @@
+{
+  "saveWindowLocations": true,
+  "windows": {
+    "DEFAULT": {
+      "hosts": {
+        "DESKTOP-VMQDDJA": {
+          "x": 2835,
+          "y": 492,
+          "width": 1187,
+          "height": 888,
+          "fullscreen": false,
+          "maximized": false
+        }
+      }
+    }
+  }
+}

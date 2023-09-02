@@ -61,14 +61,7 @@ dv.list(pg.Ekspertyza);
 ```
 
 ### Fotka
-
-```dataviewjs
-let pg = dv.current();
-let imagename = pg.Imie + ' fota.jpg';
-dv.paragraph('![[' + imagename + '|300]]');
-```
-
-
+![ [TutajNazwaFotki | 300]]
 ## Profil
 
 
@@ -85,7 +78,7 @@ Placeholder
 
 Placeholder
 
-## Personal Life
+## Życie prywatne
 Placeholder
 
 ## Professional Life
@@ -105,8 +98,6 @@ Placeholder
 **Status Traits**: Lucky, Popular, Influential, Anonymous, Disreputable, Famous, Helpless, Irrelevant, Isolated, Lower-class, Poor, Powerful, Reputable, Uneducated, Unpopular, Upper-class, Wealthy, Well-connected, Well-educated
 
 Placeholder
-
-To mi nie potrzebne to wywalam itd.
 
 ## Methods
 **Personality Traits**: Anxious, Calm, Charming, Cheerful, Childish, Energetic, Enthusiastic, Funny, Gentle, Humble, Impolite, Mature, Optimistic, Pessimistic, Proud, Respectful, Sensitive, Eccentric, Smooth, Articulate, Subtle, Apathetic, Awkward, Caring, Depressed, Dull, Humorless, Incoherent, Listless, Overt, Repulsive, Savvy, Thick-skinned, Wrathful, Cold, Naïve

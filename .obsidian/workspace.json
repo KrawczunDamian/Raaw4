@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "e84ace3266097af6",
+        "id": "d6b4ce3f9540058e",
         "type": "tabs",
         "children": [
           {
-            "id": "8c848186706ff48b",
+            "id": "fea3269a578542a0",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -16,13 +16,19 @@
                 {
                   "state": "{}",
                   "eState": "{}"
+                },
+                {
+                  "title": "Maciek",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Postaci/Maciek.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":18,\"ch\":0},\"to\":{\"line\":118,\"ch\":0}},\"scroll\":18}"
                 }
               ]
             },
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Postaci/Maciek.md",
+                "file": "zz_Templates/1_Story World Templates/People/Template - Individual.md",
                 "mode": "preview",
                 "source": false
               }
@@ -130,7 +136,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Postaci/Maciek.md",
+                "file": "zz_Templates/1_Story World Templates/People/Template - Individual.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -156,7 +162,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Postaci/Maciek.md",
+                "file": "zz_Templates/1_Story World Templates/People/Template - Individual.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -197,7 +203,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Postaci/Maciek.md"
+                "file": "zz_Templates/1_Story World Templates/People/Template - Individual.md"
               }
             }
           },
@@ -267,7 +273,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Postaci/Maciek.md"
+                "file": "zz_Templates/1_Story World Templates/People/Template - Individual.md"
               }
             }
           }
@@ -295,7 +301,7 @@
       "obsidian-5e-statblocks:Open Creature Pane": false
     }
   },
-  "active": "8c848186706ff48b",
+  "active": "fea3269a578542a0",
   "lastOpenFiles": [
     "Postaci/Maciek.md",
     "2023-09-02.md",
