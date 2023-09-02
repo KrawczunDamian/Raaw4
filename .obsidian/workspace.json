@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "d6b4ce3f9540058e",
+        "id": "90708274680f0675",
         "type": "tabs",
         "children": [
           {
-            "id": "fea3269a578542a0",
+            "id": "3b56df8e62e949df",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -16,22 +16,12 @@
                 {
                   "state": "{}",
                   "eState": "{}"
-                },
-                {
-                  "title": "Maciek",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Postaci/Maciek.md\",\"mode\":\"source\",\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":18,\"ch\":0},\"to\":{\"line\":118,\"ch\":0}},\"scroll\":18}"
                 }
               ]
             },
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "zz_Templates/1_Story World Templates/People/Template - Individual.md",
-                "mode": "preview",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -136,7 +126,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "zz_Templates/1_Story World Templates/People/Template - Individual.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -162,7 +151,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "zz_Templates/1_Story World Templates/People/Template - Individual.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -202,9 +190,7 @@
             },
             "state": {
               "type": "outline",
-              "state": {
-                "file": "zz_Templates/1_Story World Templates/People/Template - Individual.md"
-              }
+              "state": {}
             }
           },
           {
@@ -272,9 +258,7 @@
             },
             "state": {
               "type": "file-properties",
-              "state": {
-                "file": "zz_Templates/1_Story World Templates/People/Template - Individual.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -301,17 +285,17 @@
       "obsidian-5e-statblocks:Open Creature Pane": false
     }
   },
-  "active": "fea3269a578542a0",
+  "active": "3b56df8e62e949df",
   "lastOpenFiles": [
+    "zz_Templates/1_Story World Templates/People/Template - Individual.md",
+    "zz_Templates/1_Story World Templates/People/Template - Deity.md",
     "Postaci/Maciek.md",
     "2023-09-02.md",
     "Excalidraw/Drawing 2023-09-02 06.28.12.excalidraw.md",
     "Excalidraw",
-    "zz_Templates/1_Story World Templates/People/Template - Individual.md",
     "Postaci/Kula†.md",
     "Postaci/Tas.md",
     "Postaci/Wgór.md",
-    "zz_Templates/1_Story World Templates/People/Template - Deity.md",
     "zz_Templates/1_Story World Templates/People/Template - Cast List.md",
     "Individual.md",
     "zz_Templates/1_Story World Templates/Groups/Template - Group List.md",
