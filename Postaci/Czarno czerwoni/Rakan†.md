@@ -21,5 +21,5 @@ Lecz Balend dowódca Wielkiej 4 daje ten zaszczyty dla Vurbina jako dowód jego 
 
 Pan Rapis dzięki swojej pętli i ukazaniu mocy sprowadza Rakana do piwnicy domu Gildiyjnego gdzie Pernal go zabija.
 
-![[Rakan fota.png]]
+![[Rakan fota.jpg]]
 #CzarnoCzerwoni

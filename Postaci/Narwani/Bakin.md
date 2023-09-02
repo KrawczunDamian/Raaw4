@@ -18,5 +18,5 @@ Ergandella, Alanet, Krenus, Giliana, Pazok to postacie które wymienił iż są 
 Zna również wasze powiązania z Hajtonem.
 
 Wie wszystko o każdym z was a nawet wie że w waszym domu gildyjnym macie portal oraz ze dom chroni jakiś czar. Sledzi każdy was ruch i to jego sprawka że Czarno Czerwoni chcą zniszczyć wam bazę.
-![[Bakin fota.png]]
+![[Bakin fota.jpg]]
 #Narwani

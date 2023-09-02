@@ -8,5 +8,5 @@ Ołtarze są skromne znajdują się tam szare świecie z niebieskimi runami, mis
 
 Możliwe że każdy ołtarz ma swojego strażnika, maga specjalnie przydzielonego do tego zadania.
 
-![[Tartaros fota.png]]
+![[Tartaros fota.jpg]]
 #Tartaros #SzarzyMagowie #Dziedziczka

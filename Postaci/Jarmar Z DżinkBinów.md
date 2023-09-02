@@ -7,5 +7,5 @@ Jego owłosienie na twarzy jest szare z pomarańczowo czerwonymi końcówkami. Z
 
 Na trzonie jego dwuręcznego młota kowalskiego znajduje się klatka a w niej Złoto Czerwony ptak wydający ciągle jakieś dźwięki.
 
-![[Jarmar fota.jpg]]
+![[Jarmar Z DżinkBinów fota.jpg]]
 #DżinkBin

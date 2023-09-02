@@ -2957,4 +2957,7 @@ body .wotc-beyond.theme-dark .HyperMD-hr-bg {
 body {
 	--metadata-display-reading: none;
 }
+.page-header {
+display: none;
+}
 /* Alternate Color Schemes*/

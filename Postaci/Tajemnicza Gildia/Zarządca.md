@@ -7,5 +7,5 @@ Bardzo mało wiadomo o tej postaci, nigdy nie widziano jej na kontynencie sama p
 Drużyna wykonała swoje zadane Dzikus przeszywa go magiczną strzałą.  
 Zarządce rozrywa na miejscu
 
-![[Zarządca fota.png]]
+![[Zarządca fota.jpg]]
 #Arena #TajemniczaGildia

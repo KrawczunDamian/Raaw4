@@ -4,5 +4,6 @@
     "ITSSnippet"
   ],
   "cssTheme": "ITS Theme",
-  "baseFontSize": 16
+  "baseFontSize": 16,
+  "showViewHeader": true
 }

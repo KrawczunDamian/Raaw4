@@ -5,5 +5,5 @@ Służy również dla Haitona oraz Aldrime co wskazuje że jest podwójną Agent
 
 Zdecydowanie bierze stronę Haitona i Aldrimę mówiąc iż jej Służba dla Czarno Czerwonych wynika tylko z Planu tych dwóch,
 
-![[Yentaliana fota.jpg]]
+![[Yenthaliana Dal Thaarey fota.jpg]]
 #ElfyOświecone #CzarnoCzerwoni #TajemniczaGildia #PodwójnyAgent

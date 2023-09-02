@@ -8,4 +8,4 @@ Pz?
 KP?  
 S?
 
-![[Zielony smok fota.jpg]]
+![[Zielone smoki fota.jpg]]

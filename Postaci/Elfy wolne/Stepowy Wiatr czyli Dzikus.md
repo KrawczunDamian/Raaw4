@@ -13,5 +13,5 @@ Stepowy Wiatr bo takie jest jego imię pochodzi z plemienia IS a to że jest ksi
 
 Drużyna postanawia wyznaczyć go jako kandydata na nowego Króla Elfów.
 
-![[Dzikus fota.png]]
+![[Dzikus fota.jpg]]
 #ElfyWolne #Sojusz #Arena #PlemieIS

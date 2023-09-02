@@ -4,5 +4,5 @@ Tysięcznik Czarno Czerwonych.
 
 Po ponad miesiącu okazało się iż to Sidarion grał podwójnego agenta w Gildii nowe Horyzonty tak naprawdę będąc kluczową postacią w szeregach Czarno Czerwonych oraz jednym z najlepszych magów tego kontynentu.
 
-![[Sidarion.jpg]]
+![[Sidarion fota.jpg]]
 #CzarnoCzerwoni #PodwójnyAgent #NoweHoryzonty

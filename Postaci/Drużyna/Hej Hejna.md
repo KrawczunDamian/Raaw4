@@ -13,5 +13,5 @@ Prawdopodobne jest Bogiem
 
 Ratuje Primusa robiąc mu eliksir który niweluje skótki picia Fioletowego Eliksiu.
 
-![[Hej_Hejna fota.jpg]]
+![[Hej Hejna fota.jpg]]
 #Drużyna #Wyspa #Bóg

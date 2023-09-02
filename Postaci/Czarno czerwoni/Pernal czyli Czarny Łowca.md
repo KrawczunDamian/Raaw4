@@ -24,5 +24,5 @@ Mimo iż wydaje się ostatnio chory czy zmęczony widać iż nadal działa.
 Poprosił was o Qatardusa oraz przyprowadzenie jego żony do umówionego miejsca w zamian za pozbycie się Rakana i możliwość spotkania z jego Bogiem.
 
 ![[Czarny łowca fota.jpg]]
-![[Pernal fota.jpg]]
+![[Pernal czyli Czarny Łowca fota.jpg]]
 #CzarnoCzerwoni #PodwójnyAgent

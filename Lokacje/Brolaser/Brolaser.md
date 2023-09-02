@@ -6,4 +6,4 @@ Miasto posiada dostęp do rzeki gdzie przypływają towary oraz żołnierze Czar
 
 Warto zaznaczyć że to tutaj istnieje jedyny bank pożyczkowy na całym kontynencie u Gidlii Kupieckiej, Pierwszy burdel na świecie czy Największa biblioteka gdzie można znaleźć setki tysięcy różnych ksiąg.
 
-![[Brolasel fota.png]]
+![[Brolasel fota.jpg]]

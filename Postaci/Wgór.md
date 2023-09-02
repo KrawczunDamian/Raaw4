@@ -2,4 +2,4 @@ Wgór przypomina wielkiego kamiennego golema. Widać że mało co może go zrani
 Prawdopodobnie nie umie posługiwać się mową.  
 Został przyzwany jako Galim Pana czasu.
 
-![[Wgur fota.jpg]]
+![[Wgór fota.jpg]]

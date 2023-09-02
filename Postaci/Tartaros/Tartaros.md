@@ -1,3 +1,4 @@
+
 ```dataviewjs
 let pg = dv.current();
 dv.header(1,pg.file.name); //Header pliku brany z nazwy

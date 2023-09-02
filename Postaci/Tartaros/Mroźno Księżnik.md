@@ -6,5 +6,5 @@ Stał się na tyle potężny aby uwolnić się spod niej jarzma, choć ona dosko
 
 Zna Tasa oraz Championa razem planowali ukraść jeden z Kluczy dla Jedynego..
 
-![[Mroźno księżnik fota.png]]
+![[Mroźno księżnik fota.jpg]]
 #Mag #Tartaros

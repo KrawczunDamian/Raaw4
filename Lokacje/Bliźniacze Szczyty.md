@@ -7,4 +7,4 @@ Czym głębiej tym widać więcej magicznych lodowych potworów które prawdopod
 
 Lodowe Szczyty okazały się Domem Mroźno Księżnika
 
-![[Bliźniacze szczyty fota.png]]
+![[Bliźniacze szczyty fota.jpg]]

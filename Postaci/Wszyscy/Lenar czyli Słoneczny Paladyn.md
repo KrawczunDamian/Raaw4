@@ -14,6 +14,6 @@ Przyjaciel Championa siedziba w Beachmaw.
 
 Szuka 12 serce Golema zostało mu jeszcze 3 do znalezienia.
 
-![[Słoneczny paladyn fota.jpg]]
+![[Lenar czyli Słoneczny Paladyn fota.jpg]]
 ![[Lenart fota.jpg]]
 #Wszyscy

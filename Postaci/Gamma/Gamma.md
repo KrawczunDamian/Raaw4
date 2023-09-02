@@ -1,8 +1,9 @@
+
 ```dataviewjs
 let pg = dv.current();
 dv.header(1,pg.file.name); //Header pliku brany z nazwy
 
-let pages = dv.pages(`"${pg.file.folder}"`);
+let pages = dv.pages('"Postaci/Gamma"'); //Nazwa folderu do zmiany
 for (let page of pages)
 {
 	if(page.file.folder == pg.file.folder 

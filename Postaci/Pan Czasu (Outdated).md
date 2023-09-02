@@ -35,4 +35,4 @@ W kolejne wizji widzicie jak Postać Raaawjańczyka w Czerwonym płaszczu o czar
 
 Pan czasu ogłasza iż za 10 dni powróci przez ten czas musicie czarem zaznaczyć każdą postać która będzie Godna stać się nowym Panem Czasu!
 
-![[Pan Czasu fota.png]]
+![[Pan Czasu fota.jpg]]
