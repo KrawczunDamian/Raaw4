@@ -18,6 +18,12 @@
                   "eState": "{}"
                 },
                 {
+                  "title": "Lokacje",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Lokacje/Lokacje.md\",\"mode\":\"preview\",\"source\":false}}",
+                  "eState": "{}"
+                },
+                {
                   "title": "Brolaser",
                   "icon": "lucide-file",
                   "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Lokacje/Brolaser/Brolaser.md\",\"mode\":\"source\",\"source\":false}}",
@@ -380,11 +386,10 @@
               ]
             },
             "state": {
-              "type": "markdown",
+              "type": "diff-view",
               "state": {
-                "file": "Lokacje/Lokacje.md",
-                "mode": "preview",
-                "source": false
+                "file": ".obsidian/plugins/obsidian-git/data.json",
+                "staged": false
               }
             }
           },
@@ -511,7 +516,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Lokacje/Lokacje.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -537,7 +541,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Lokacje/Lokacje.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -577,9 +580,7 @@
             },
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Lokacje/Lokacje.md"
-              }
+              "state": {}
             }
           },
           {
@@ -647,9 +648,7 @@
             },
             "state": {
               "type": "file-properties",
-              "state": {
-                "file": "Lokacje/Lokacje.md"
-              }
+              "state": {}
             }
           },
           {
@@ -694,6 +693,7 @@
   },
   "active": "07d861e9bc2c8e2e",
   "lastOpenFiles": [
+    "Lokacje/Lokacje.md",
     "Lokacje/Brolaser/Brolaser.md",
     "Lokacje/Pursecja/Monolit.md",
     "Lokacje/Pursecja/Pursecja.md",
@@ -701,7 +701,6 @@
     "Lokacje/Nasza wyspa/Jaskinia Piratów.md",
     "Lokacje/Krecztor/Krecztor.md",
     "Lokacje/Hookdale/Hookdale.md",
-    "Lokacje/Lokacje.md",
     "Postaci/Postaci.md",
     "Gildie/Gildie.md",
     "Gildie/Brudni.md",
