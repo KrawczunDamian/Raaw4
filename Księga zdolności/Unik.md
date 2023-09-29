@@ -1,1 +1,0 @@
-Gdy kto Cię trafi przed rzuceniem na obrażenia możesz zdecydować że unikasz tego ataku.

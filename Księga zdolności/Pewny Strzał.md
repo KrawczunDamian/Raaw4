@@ -1,1 +1,0 @@
-Trafiasz automatycznie Cel

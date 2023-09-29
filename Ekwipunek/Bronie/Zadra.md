@@ -1,3 +1,0 @@
-?
-![[Zadra fota.jpg]]
-#Bronie

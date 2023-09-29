@@ -1,1 +1,0 @@
-Atencja Pana + Rzemiło Za każdy 1 w Rzemiośle możesz przrzucić jedną kość podczas walki Za każde Twoje 2 punkty w Rzemiosle dostajesz 1 Szybkości Twoje 3 punktyw Rzemiośle dostajesz+1 Do rzutu na każdą podstatystykę
