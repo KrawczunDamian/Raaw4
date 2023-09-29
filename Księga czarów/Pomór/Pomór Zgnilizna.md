@@ -1,1 +1,0 @@
-Gnije Ci część ciała Z2 K16 M10

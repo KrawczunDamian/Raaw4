@@ -1,1 +1,0 @@
-Gdy ktoś Cię nie trafi zaatakuj za 1PA wroga

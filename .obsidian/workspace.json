@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "527a5e130c0ff79a",
+        "id": "d8d59c6ae7e3175a",
         "type": "tabs",
         "children": [
           {
-            "id": "07d861e9bc2c8e2e",
+            "id": "6f34330ad5a38950",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -18,397 +18,59 @@
                   "eState": "{}"
                 },
                 {
-                  "title": "Lokacje",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Lokacje/Lokacje.md\",\"mode\":\"preview\",\"source\":false}}",
+                  "title": "Gobliny",
+                  "icon": "lucide-file-text",
+                  "state": "{\"type\":\"pdf\",\"state\":{\"file\":\"z_Mechanika/Rasy/Gobliny.pdf\"}}",
                   "eState": "{}"
                 },
                 {
-                  "title": "Brolaser",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Lokacje/Brolaser/Brolaser.md\",\"mode\":\"source\",\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":8,\"ch\":22},\"to\":{\"line\":8,\"ch\":22}},\"scroll\":8.587947067180087}"
-                },
-                {
-                  "title": "Monolit",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Lokacje/Pursecja/Monolit.md\",\"mode\":\"source\",\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":3.096347600396921}"
-                },
-                {
-                  "title": "Pursecja",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Lokacje/Pursecja/Pursecja.md\",\"mode\":\"source\",\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":4.700000127156575}"
-                },
-                {
-                  "title": "Wyspa",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Lokacje/Nasza wyspa/Wyspa.md\",\"mode\":\"source\",\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-                },
-                {
-                  "title": "Jaskinia Piratów",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Lokacje/Nasza wyspa/Jaskinia Piratów.md\",\"mode\":\"source\",\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-                },
-                {
-                  "title": "Krecztor",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Lokacje/Krecztor/Krecztor.md\",\"mode\":\"source\",\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-                },
-                {
-                  "title": "Hookdale",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Lokacje/Hookdale/Hookdale.md\",\"mode\":\"source\",\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
-                },
-                {
-                  "title": "Brolaser",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Lokacje/Brolaser/Brolaser.md\",\"mode\":\"source\",\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":6,\"ch\":203},\"to\":{\"line\":6,\"ch\":203}},\"scroll\":0.3599999904632568}"
-                },
-                {
-                  "title": "Lokacje",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Lokacje/Lokacje.md\",\"mode\":\"preview\",\"source\":false}}",
-                  "eState": "{\"scroll\":0}"
-                },
-                {
-                  "title": "Postaci",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Postaci/Postaci.md\",\"mode\":\"source\",\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-                },
-                {
-                  "title": "Brolaser",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Lokacje/Brolaser/Brolaser.md\",\"mode\":\"source\",\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-                },
-                {
-                  "title": "Lokacje",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Lokacje/Lokacje.md\",\"mode\":\"source\",\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":16,\"ch\":1},\"to\":{\"line\":1,\"ch\":0}},\"scroll\":0}"
-                },
-                {
-                  "title": "Krecztor",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Lokacje/Krecztor/Krecztor.md\",\"mode\":\"source\",\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-                },
-                {
-                  "title": "Lokacje",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Lokacje/Lokacje.md\",\"mode\":\"source\",\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":17,\"ch\":0},\"to\":{\"line\":17,\"ch\":0}},\"scroll\":0}"
-                },
-                {
-                  "title": "Brolaser",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Lokacje/Brolaser/Brolaser.md\",\"mode\":\"preview\",\"source\":false}}",
+                  "title": "Irdowie",
+                  "icon": "lucide-file-text",
+                  "state": "{\"type\":\"pdf\",\"state\":{\"file\":\"z_Mechanika/Rasy/Irdowie.pdf\"}}",
                   "eState": "{}"
                 },
                 {
-                  "title": "Gildie",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Gildie/Gildie.md\",\"mode\":\"preview\",\"source\":false}}",
-                  "eState": "{\"scroll\":10.118530517188125}"
+                  "title": "Gobliny",
+                  "icon": "lucide-file-text",
+                  "state": "{\"type\":\"pdf\",\"state\":{\"file\":\"z_Mechanika/Rasy/Gobliny.pdf\"}}",
+                  "eState": "{}"
                 },
                 {
-                  "title": "Brudni",
+                  "title": "Felpurrowie",
+                  "icon": "lucide-file-text",
+                  "state": "{\"type\":\"pdf\",\"state\":{\"file\":\"z_Mechanika/Rasy/Felpurrowie.pdf\"}}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "Delocjanie",
+                  "icon": "lucide-image",
+                  "state": "{\"type\":\"image\",\"state\":{\"file\":\"z_Mechanika/Rasy/Delocjanie.png\"}}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "Zasady Gry",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Gildie/Brudni.md\",\"mode\":\"source\",\"source\":false}}",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"z_Mechanika/Zasady Gry.md\",\"mode\":\"source\",\"source\":false}}",
                   "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-                },
-                {
-                  "title": "Czarno Czerwoni",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Gildie/Czarno Czerwoni.md\",\"mode\":\"source\",\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-                },
-                {
-                  "title": "Narwani",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Gildie/Narwani.md\",\"mode\":\"source\",\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-                },
-                {
-                  "title": "Nowe Horyzonty (Gildia Czasu)",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Gildie/Nowe Horyzonty (Gildia Czasu).md\",\"mode\":\"source\",\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
                 },
                 {
                   "title": "Wydarzenia",
                   "icon": "lucide-file",
                   "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Wydarzenia/Wydarzenia.md\",\"mode\":\"source\",\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":17,\"ch\":0},\"to\":{\"line\":17,\"ch\":0}},\"scroll\":1.8345463655145482}"
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
                 },
                 {
-                  "title": "Inicjatywa",
+                  "title": "Zasady Gry",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Księga zdolności/Inicjatywa.md\",\"mode\":\"source\",\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-                },
-                {
-                  "title": "Zielone Smoki",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Bestiariusz/Zielone Smoki.md\",\"mode\":\"source\",\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-                },
-                {
-                  "title": "T-Rex",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Bestiariusz/T-Rex.md\",\"mode\":\"source\",\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-                },
-                {
-                  "title": "Szyłup",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Bestiariusz/Szyłup.md\",\"mode\":\"source\",\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-                },
-                {
-                  "title": "Pełzacze",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Bestiariusz/Pełzacze.md\",\"mode\":\"source\",\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-                },
-                {
-                  "title": "Organiczny Golem",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Bestiariusz/Organiczny Golem.md\",\"mode\":\"source\",\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-                },
-                {
-                  "title": "Monocorn",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Bestiariusz/Monocorn.md\",\"mode\":\"source\",\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-                },
-                {
-                  "title": "Lodowy Golem",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Bestiariusz/Lodowy Golem.md\",\"mode\":\"source\",\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-                },
-                {
-                  "title": "Lodołak",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Bestiariusz/Lodołak.md\",\"mode\":\"source\",\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-                },
-                {
-                  "title": "Kryształowy Krab",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Bestiariusz/Kryształowy Krab.md\",\"mode\":\"source\",\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":1,\"ch\":0},\"to\":{\"line\":1,\"ch\":0}}}"
-                },
-                {
-                  "title": "Czarno Czerwoni Elita",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Bestiariusz/Czarno Czerwoni Elita.md\",\"mode\":\"source\",\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-                },
-                {
-                  "title": "Kryształowy Krab",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Bestiariusz/Kryształowy Krab.md\",\"mode\":\"source\",\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":1,\"ch\":28},\"to\":{\"line\":1,\"ch\":28}}}"
-                },
-                {
-                  "title": "Czarno Czerwoni Elita",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Bestiariusz/Czarno Czerwoni Elita.md\",\"mode\":\"source\",\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":1,\"ch\":0},\"to\":{\"line\":1,\"ch\":0}}}"
-                },
-                {
-                  "title": "Czarno Czerwoni",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Bestiariusz/Czarno Czerwoni.md\",\"mode\":\"source\",\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-                },
-                {
-                  "title": "Cieniostwór",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Bestiariusz/Cieniostwór.md\",\"mode\":\"source\",\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-                },
-                {
-                  "title": "Bestia spod Pursecji",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Bestiariusz/Bestia spod Pursecji.md\",\"mode\":\"source\",\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-                },
-                {
-                  "title": "Bestiariusz",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Bestiariusz/Bestiariusz.md\",\"mode\":\"source\",\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":17,\"ch\":0},\"to\":{\"line\":17,\"ch\":0}},\"scroll\":0}"
-                },
-                {
-                  "title": "Przedmioty",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Ekwipunek/Przedmioty/Przedmioty.md\",\"mode\":\"preview\",\"source\":false}}",
-                  "eState": "{\"scroll\":12.281590713540625}"
-                },
-                {
-                  "title": "Bronie",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Ekwipunek/Bronie/Bronie.md\",\"mode\":\"preview\",\"source\":false}}",
-                  "eState": "{\"scroll\":14.439355621610856}"
-                },
-                {
-                  "title": "Nasze",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Ekwipunek/Bronie/Nasze/Nasze.md\",\"mode\":\"source\",\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":17,\"ch\":0},\"to\":{\"line\":17,\"ch\":0}}}"
-                },
-                {
-                  "title": "Bronie",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Ekwipunek/Bronie/Bronie.md\",\"mode\":\"source\",\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":17,\"ch\":0},\"to\":{\"line\":17,\"ch\":0}}}"
-                },
-                {
-                  "title": "Nasze",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Ekwipunek/Przedmioty/Nasze/Nasze.md\",\"mode\":\"source\",\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":17,\"ch\":0},\"to\":{\"line\":17,\"ch\":0}},\"scroll\":0}"
-                },
-                {
-                  "title": "Przedmioty",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Ekwipunek/Przedmioty/Przedmioty.md\",\"mode\":\"source\",\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":17,\"ch\":0},\"to\":{\"line\":17,\"ch\":0}},\"scroll\":2.821540134512846}"
-                },
-                {
-                  "title": "Nasze",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Ekwipunek/Zbroje/Nasze/Nasze.md\",\"mode\":\"source\",\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":17,\"ch\":0},\"to\":{\"line\":17,\"ch\":0}}}"
-                },
-                {
-                  "title": "Zbroje",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Ekwipunek/Zbroje/Zbroje.md\",\"mode\":\"source\",\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":17,\"ch\":0}},\"scroll\":0}"
-                },
-                {
-                  "title": "Wszyscy",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Postaci/Wszyscy/Wszyscy.md\",\"mode\":\"preview\",\"source\":false}}",
-                  "eState": "{\"scroll\":0}"
-                },
-                {
-                  "title": "Tartaros",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Postaci/Tartaros/Tartaros.md\",\"mode\":\"source\",\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":18,\"ch\":0},\"to\":{\"line\":18,\"ch\":0}},\"scroll\":0.24285714966910227}"
-                },
-                {
-                  "title": "Tajemnicza Gildia",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Postaci/Tajemnicza Gildia/Tajemnicza Gildia.md\",\"mode\":\"preview\",\"source\":false}}",
-                  "eState": "{\"scroll\":0}"
-                },
-                {
-                  "title": "Narwani",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Postaci/Narwani/Narwani.md\",\"mode\":\"preview\",\"source\":false}}",
-                  "eState": "{\"scroll\":13.293075096574185}"
-                },
-                {
-                  "title": "Ladończycy",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Postaci/Ladończycy/Ladończycy.md\",\"mode\":\"preview\",\"source\":false}}",
-                  "eState": "{}"
-                },
-                {
-                  "title": "Gildia czasu",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Postaci/Gildia czasu/Gildia czasu.md\",\"mode\":\"preview\",\"source\":false}}",
-                  "eState": "{\"scroll\":9.015472936766878}"
-                },
-                {
-                  "title": "Gamma",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Postaci/Gamma/Gamma.md\",\"mode\":\"preview\",\"source\":false}}",
-                  "eState": "{\"scroll\":12.382608695652173}"
-                },
-                {
-                  "title": "Elfy wolne",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Postaci/Elfy wolne/Elfy wolne.md\",\"mode\":\"source\",\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":3,\"ch\":24},\"to\":{\"line\":3,\"ch\":24}},\"scroll\":15.897184147658347}"
-                },
-                {
-                  "title": "Drużyna",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Postaci/Drużyna/Drużyna.md\",\"mode\":\"preview\",\"source\":false}}",
-                  "eState": "{\"scroll\":9.336593092185469}"
-                },
-                {
-                  "title": "Brudni",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Postaci/Brudni/Brudni.md\",\"mode\":\"preview\",\"source\":false}}",
-                  "eState": "{\"scroll\":3.139114160948222}"
-                },
-                {
-                  "title": "Czarno czerwoni",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Postaci/Czarno czerwoni/Czarno czerwoni.md\",\"mode\":\"source\",\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-                },
-                {
-                  "title": "Folder Note Content List",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"zz_Templates/3_Markdown/Folder Note Content List.md\",\"mode\":\"source\",\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":10,\"ch\":4},\"to\":{\"line\":10,\"ch\":4}}}"
-                },
-                {
-                  "title": "Czarno czerwoni",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Postaci/Czarno czerwoni/Czarno czerwoni.md\",\"mode\":\"source\",\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":9,\"ch\":4},\"to\":{\"line\":7,\"ch\":1}},\"scroll\":0}"
-                },
-                {
-                  "title": "Brudni",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Postaci/Brudni/Brudni.md\",\"mode\":\"source\",\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":15,\"ch\":0}},\"scroll\":0}"
-                }
-              ]
-            },
-            "state": {
-              "type": "diff-view",
-              "state": {
-                "file": ".obsidian/plugins/obsidian-git/data.json",
-                "staged": false
-              }
-            }
-          },
-          {
-            "id": "fe224922894c7f5a",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"z_Mechanika/Zasady Gry.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":44,\"ch\":13},\"to\":{\"line\":44,\"ch\":13}},\"scroll\":19.5}"
                 }
               ]
             },
             "state": {
               "type": "markdown",
               "state": {
-                "file": "zz_Templates/3_Markdown/Folder Note Content List.md",
+                "file": "z_Mechanika/Zasady Gry.md",
                 "mode": "source",
                 "source": false
               }
@@ -491,7 +153,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 226.5
   },
   "right": {
     "id": "4de741d3ab701789",
@@ -516,6 +178,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "z_Mechanika/Zasady Gry.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -541,6 +204,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "z_Mechanika/Zasady Gry.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -580,7 +244,9 @@
             },
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "z_Mechanika/Zasady Gry.md"
+              }
             }
           },
           {
@@ -648,7 +314,9 @@
             },
             "state": {
               "type": "file-properties",
-              "state": {}
+              "state": {
+                "file": "z_Mechanika/Zasady Gry.md"
+              }
             }
           },
           {
@@ -666,6 +334,25 @@
             "state": {
               "type": "git-view",
               "state": {}
+            }
+          },
+          {
+            "id": "fec5cd41b421560e",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency"
+              }
             }
           }
         ],
@@ -691,54 +378,54 @@
       "obsidian-5e-statblocks:Open Creature Pane": false
     }
   },
-  "active": "07d861e9bc2c8e2e",
+  "active": "6f34330ad5a38950",
   "lastOpenFiles": [
-    "Lokacje/Lokacje.md",
-    "Lokacje/Brolaser/Brolaser.md",
-    "Lokacje/Pursecja/Monolit.md",
-    "Lokacje/Pursecja/Pursecja.md",
-    "Lokacje/Nasza wyspa/Wyspa.md",
-    "Lokacje/Nasza wyspa/Jaskinia Piratów.md",
-    "Lokacje/Krecztor/Krecztor.md",
-    "Lokacje/Hookdale/Hookdale.md",
-    "Postaci/Postaci.md",
-    "Gildie/Gildie.md",
-    "Gildie/Brudni.md",
-    "Gildie/Czarno Czerwoni.md",
-    "Gildie/Narwani.md",
-    "Gildie/Nowe Horyzonty (Gildia Czasu).md",
-    "Wydarzenia/Wydarzenia.md",
-    "Księga zdolności/Inicjatywa.md",
-    "Bestiariusz/Zielone Smoki.md",
-    "Bestiariusz/T-Rex.md",
-    "Bestiariusz/Szyłup.md",
-    "Bestiariusz/Pełzacze.md",
-    "Bestiariusz/Organiczny Golem.md",
-    "Bestiariusz/Monocorn.md",
-    "Bestiariusz/Lodowy Golem.md",
-    "Bestiariusz/Lodołak.md",
-    "Bestiariusz/Kryształowy Krab.md",
-    "Bestiariusz/Czarno Czerwoni Elita.md",
-    "z_Foty/Hej Hejna fota.jpg",
-    "z_Foty/Hej_Hejna fota 1.jpg",
-    "z_Foty/Qa'isa Solnai fota.jpg",
-    "z_Foty/Qutardus Hal Novemerta fota.jpg",
-    "z_Foty/Pan Czasu (Outdated) fota.jpg",
-    "z_Foty/Krecztor Posiadłość Hitona Tawakaniego 1 fota.jpg",
-    "z_Foty/Święte miejsce Elfów fota.jpg",
-    "z_Foty/Śmierć Orronara fota.jpg",
-    "z_Foty/Ćwiara fota.jpg",
-    "z_Foty/Qiren Tolk fota.jpg",
-    "z_Foty/Nowy folder",
-    "z_Foty/backup",
-    "z_Foty/Narwani pdf.pdf",
-    "Excalidraw",
-    "Karty postaci/Krenus karta.pdf",
-    "Ekwipunek",
-    "Untitled 1",
-    "z_Assets/Misc",
-    "z_Assets",
+    "z_Mechanika/Rasy/Gobliny.pdf",
+    "Gildie/Czarno czerwoni",
+    "z_Mechanika/Rasy/Irdowie.pdf",
+    "z_Mechanika/Rasy/Felpurrowie.pdf",
+    "z_Mechanika/Rasy/Delocjanie.png",
+    "z_Mechanika/Rasy/Raawjańczycy.pdf",
+    "Karty postaci/Templatka.pdf",
+    "Karty postaci/Ergandella karta.pdf",
+    "z_Mechanika/Zasady Gry.md",
+    "z_Mechanika/Rasy/Delocjanie.pdf",
+    "z_Mechanika/Rasy/368d5efc-d887-4870-a344-a7ac73dcc560.png",
     "z_Mechanika/Rasy/Aoqi.pdf",
+    "Wydarzenia/Wydarzenia.md",
+    "z_Mechanika/Statystyki wykresy itp.md",
+    "Księga czarów/Ave Sempra.md",
+    "Księga czarów/Ból.md",
+    "Księga czarów/Cierń.md",
+    "Księga czarów/Sailento.md",
+    "Księga czarów/Verum.md",
+    "Ekwipunek/Bronie/Nasze/Nasze.md",
+    "Bestiariusz/Zielone Smoki.md",
+    "Ekwipunek/Bronie/Nasze/Głowa Lewiatana.md",
+    "Karty postaci/Pazok_Rybi_Kciuk karta.pdf",
+    "Karty postaci/Krenus karta.pdf",
+    "SESJA 0.md",
+    "zz_Templates/1_Story World Templates/People/Template - Cast List.md",
+    "Bestiariusz/Bestiariusz.md",
+    "Lokacje/Brolaser/Brolaser.md",
+    "Lokacje/Lokacje.md",
+    "Gildie/Gildie.md",
+    "Ekwipunek/Przedmioty/Nasze/Nasze.md",
+    "Ekwipunek/Przedmioty/Przedmioty.md",
+    "Ekwipunek/Bronie/Bronie.md",
+    "Bestiariusz/Pełzacze.md",
+    "Gildie/Czarno Czerwoni.md",
+    "Gildie/Nowe Horyzonty (Gildia Czasu).md",
+    "Postaci/Tartaros/Dziedziczka Jedynego.md",
+    "Postaci/Testowy/Testowy.md",
+    "z_Foty/Zielone smoki fota.jpg",
+    "z_Foty/Yenthaliana Dal Thaarey fota.jpg",
+    "z_Foty/Wgór fota.jpg",
+    "z_Foty/Stepowy Wiatr czyli Dzikus fota.jpg",
+    "z_Foty/Sir Zolen Proch fota.jpg",
+    "z_Foty/Sir Latrel Z Tarnicy Wschodniej fota.jpg",
+    "z_Foty/Sidarion fota.jpg",
+    "z_Foty/Qutardus Hal Novemerta fota.jpg",
     "Untitled.canvas",
     "Untitled 1.canvas"
   ]
