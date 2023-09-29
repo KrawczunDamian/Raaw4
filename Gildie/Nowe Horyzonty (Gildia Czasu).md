@@ -15,5 +15,5 @@ Minusy:Obecna sytuacja jest tragiczna, po zdradach praktycznie przywództwo nie 
 Odbudowy podejmują się Ci najbardziej oddani co nie oznacza że najlepsi  
 Ciężko o jakąkolwiek pomoc czy wskazówki co robić dalej, gdy nie ma kto tego robić.
 
-![[Nowe Horyzonty (Gildia Czasu) fota.jpg]]
+![[Nowe Horyzonty fota.jpg]]
 #NoweHoryzonty #champion #GildiaCzasu
