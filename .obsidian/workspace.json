@@ -18,9 +18,15 @@
                   "eState": "{}"
                 },
                 {
+<<<<<<< HEAD
                   "title": "Lokacje",
                   "icon": "lucide-file",
                   "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Lokacje/Lokacje.md\",\"mode\":\"preview\",\"source\":false}}",
+=======
+                  "title": "Gobliny",
+                  "icon": "lucide-file-text",
+                  "state": "{\"type\":\"pdf\",\"state\":{\"file\":\"z_Mechanika/Rasy/Gobliny.pdf\"}}",
+>>>>>>> parent of a088346 (vault backup: 2023-09-29 22:00:08)
                   "eState": "{}"
                 },
                 {
@@ -152,6 +158,7 @@
                 {
                   "title": "Inicjatywa",
                   "icon": "lucide-file",
+<<<<<<< HEAD
                   "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Księga zdolności/Inicjatywa.md\",\"mode\":\"source\",\"source\":false}}",
                   "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
                 },
@@ -402,6 +409,10 @@
                 {
                   "state": "{}",
                   "eState": "{}"
+=======
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"z_Mechanika/Zasady Gry.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":44,\"ch\":13},\"to\":{\"line\":44,\"ch\":13}},\"scroll\":19.5}"
+>>>>>>> parent of a088346 (vault backup: 2023-09-29 22:00:08)
                 }
               ]
             },
@@ -691,8 +702,41 @@
       "obsidian-5e-statblocks:Open Creature Pane": false
     }
   },
+<<<<<<< HEAD
   "active": "07d861e9bc2c8e2e",
   "lastOpenFiles": [
+=======
+  "active": "6f34330ad5a38950",
+  "lastOpenFiles": [
+    "z_Mechanika/Rasy/Gobliny.pdf",
+    "Gildie/Czarno czerwoni",
+    "z_Mechanika/Rasy/Irdowie.pdf",
+    "z_Mechanika/Rasy/Felpurrowie.pdf",
+    "z_Mechanika/Rasy/Delocjanie.png",
+    "z_Mechanika/Rasy/Raawjańczycy.pdf",
+    "Karty postaci/Templatka.pdf",
+    "Karty postaci/Ergandella karta.pdf",
+    "z_Mechanika/Zasady Gry.md",
+    "z_Mechanika/Rasy/Delocjanie.pdf",
+    "z_Mechanika/Rasy/368d5efc-d887-4870-a344-a7ac73dcc560.png",
+    "z_Mechanika/Rasy/Aoqi.pdf",
+    "Wydarzenia/Wydarzenia.md",
+    "z_Mechanika/Statystyki wykresy itp.md",
+    "Księga czarów/Ave Sempra.md",
+    "Księga czarów/Ból.md",
+    "Księga czarów/Cierń.md",
+    "Księga czarów/Sailento.md",
+    "Księga czarów/Verum.md",
+    "Ekwipunek/Bronie/Nasze/Nasze.md",
+    "Bestiariusz/Zielone Smoki.md",
+    "Ekwipunek/Bronie/Nasze/Głowa Lewiatana.md",
+    "Karty postaci/Pazok_Rybi_Kciuk karta.pdf",
+    "Karty postaci/Krenus karta.pdf",
+    "SESJA 0.md",
+    "zz_Templates/1_Story World Templates/People/Template - Cast List.md",
+    "Bestiariusz/Bestiariusz.md",
+    "Lokacje/Brolaser/Brolaser.md",
+>>>>>>> parent of a088346 (vault backup: 2023-09-29 22:00:08)
     "Lokacje/Lokacje.md",
     "Lokacje/Brolaser/Brolaser.md",
     "Lokacje/Pursecja/Monolit.md",

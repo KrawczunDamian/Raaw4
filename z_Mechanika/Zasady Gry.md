@@ -6,6 +6,7 @@ inicjatywą
 Po dwóch Turach sprawdzane są Zdolności Akcji Rasowych. Postacie które spełniły warunki zgodnie z
 inicjatywą oraz zasadami wykonują swoją trzecią Akcje. Następnie zaczyna się kolejna Runda
 Akcje:
+<<<<<<< HEAD
 Atak:Wykonaj Atak , nie można wykonać po Postawach
 Użycie czaru : w zależności od czaru
 Użycie zdolności: w zależności od zdolności
@@ -48,6 +49,11 @@ Broń magiczna: W zależności od broni
 Rzucanie Czaru: Sprawdzenie czy posiadamy odpowiednią ilości many , rzucamy K20 sprawdzamy czy
 udało się rzucić wymagany próg trudności czaru ( każda wroga postać sąsiadująca z naszą postacią -2
 do koncentracji) Każdy brakujący zasięg to -2 do trafienia (nieudany czar zabiera 50%many za w górę)
+=======
+Jak w DnD
+Szybkość każde +1 w Szybkości daje 1 metr ruchu
+
+>>>>>>> parent of a088346 (vault backup: 2023-09-29 22:00:08)
 Zestawy Zbroi:
 Każdy zestaw składa się z 5 elementów :
 Hełmu/Rękawic/Zbroi/Spodni/ Butów
@@ -58,8 +64,12 @@ lecz mogą podnieść KP/atrybuty lub dodać nowe zdolności
 Levelowanie:
 Do każdego lvl potrzebne jest 1000 Expa
 Po zdobyciu levelu:
+<<<<<<< HEAD
 Gracz dodaje do Punktów życia modyfikator z Witalności
 Następnie gracz dodaje Umiejętność z Drogi Bohatera
+=======
+Gracz dodaje do Punktów życia modyfikator z Witalności + DX (X zależy od Budowy - jeszcze do ustalenia)
+>>>>>>> parent of a088346 (vault backup: 2023-09-29 22:00:08)
 
 Następnie dostajemy Punkty Umiejętności które możemy przeznaczyć do :
 Statystyk
@@ -78,6 +88,7 @@ Gracz będący na 3 lub mniej poczytalności rzuca K20 w każdej swojej turze na
 W momencie Śmierci jednorazowo rzucamy K20 + szczęście wynik Powyżej 15 pozwala zostać na
 5PZ/2PP Kolejna taka sytuacja kończy się śmiercią.
 Statystyki Główne:
+<<<<<<< HEAD
 Ich modyfikator nie jest dodawany do rzutów(w rzadkich przypadkach)
 Służą jedynie do wymogów które narzucają na gracza
 przedmioty/umiejętności aby móc władać danym przedmiotem/
@@ -116,3 +127,12 @@ Twojej drużyny- ile jest z tego dmg twoim dmg- poziom przeciwników.
 Wszelkie Questy/zadanie poboczne/ aktywności są rozpatrywane indywidualnie od tego jak wam/ Ci
 poszło.
 Co osiągnęliście brany jest również poziom trudności pod uwagę.
+=======
+Ich modyfikator jest dodawany do rzutów
+
+Umiejętności:
+**Witalność** daje co lvl tyle ile wynosi modyfikator
+**Odporność** daje jednorazowo 1Max Punkt Poczytalności 
+**Szczęście** jedno Szczęście daje 1 punkty które można przydzielić dowolnie do ilości/jakości
+
+>>>>>>> parent of a088346 (vault backup: 2023-09-29 22:00:08)
