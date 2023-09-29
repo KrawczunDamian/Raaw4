@@ -1,0 +1,1 @@
+Gdy nie trafisz przeciwnika dodaj +2do trafienia do tego przeciwnika. Efekt kumuluje się aż trafisz.

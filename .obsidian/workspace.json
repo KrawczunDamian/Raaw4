@@ -18,12 +18,6 @@
                   "eState": "{}"
                 },
                 {
-                  "title": "Template - Deity",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"zz_Templates/1_Story World Templates/People/Template - Deity.md\",\"mode\":\"preview\",\"source\":false}}",
-                  "eState": "{}"
-                },
-                {
                   "title": "Template - Cast List",
                   "icon": "lucide-file",
                   "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"zz_Templates/1_Story World Templates/People/Template - Cast List.md\",\"mode\":\"preview\",\"source\":false}}",
@@ -112,13 +106,41 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SESJA 0.md",
+                "file": "zz_Templates/1_Story World Templates/People/Template - Deity.md",
                 "mode": "preview",
                 "source": false
               }
             }
+          },
+          {
+            "id": "c17b322c82b82026",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "Release Notes 1.4.13",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"release-notes\",\"state\":{\"currentVersion\":\"1.4.13\"}}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Postaci/Postaci.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -220,7 +242,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SESJA 0.md",
+                "file": "Postaci/Postaci.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -246,7 +268,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SESJA 0.md",
+                "file": "Postaci/Postaci.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -287,7 +309,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SESJA 0.md"
+                "file": "Postaci/Postaci.md"
               }
             }
           },
@@ -357,7 +379,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "SESJA 0.md"
+                "file": "Postaci/Postaci.md"
               }
             }
           },
@@ -412,14 +434,8 @@
       "obsidian-5e-statblocks:Open Creature Pane": false
     }
   },
-  "active": "09a11b383a5b1e38",
+  "active": "c32b87e257d933b6",
   "lastOpenFiles": [
-    "zz_Templates/1_Story World Templates/People/Template - Deity.md",
-    "Karty postaci/Templatka.pdf",
-    "Postaci/Postaci.md",
-    "z_Mechanika/Rasy/Raawjańczycy.pdf",
-    "z_Mechanika/Rasy/Delocjanie.png",
-    "SESJA 0.md",
     "zz_Templates/1_Story World Templates/People/Template - Cast List.md",
     "Bestiariusz/Bestiariusz.md",
     "Wydarzenia/Wydarzenia.md",
@@ -442,15 +458,20 @@
     "Postaci/Testowy",
     "Postaci/Brudni/Gawron lub Lintal Yerbo.md",
     "Postaci/Abyss.md",
+    "Postaci/Postaci.md",
     "Ekwipunek/Przedmioty/Biały Kamień.md",
     "Postaci/Pan Czasu (Outdated).md",
     "Postaci/Wszyscy/Wszyscy.md",
     "Postaci/Drużyna/Alanet.md",
+    "zz_Templates/3_Markdown/Folder Note Content List.md",
     "z_PDFy/Populacja_Ras_R4.pdf",
     "z_PDFy",
     "z_Mechanika/Rasy/Yordle.pdf",
     "z_Mechanika/Rasy/Skaveni.pdf",
     "z_Mechanika/Rasy/Xerabini.pdf",
+    "z_Mechanika/Rasy/Raaawjanczycy.pdf",
+    "z_Mechanika/Rasy/Orkowie.pdf",
+    "z_Mechanika/Zasady Gry.md",
     "z_Foty/Zielone smoki fota.jpg",
     "z_Foty/Yenthaliana Dal Thaarey fota.jpg",
     "z_Foty/Wgór fota.jpg",
@@ -460,6 +481,7 @@
     "z_Foty/Sidarion fota.jpg",
     "z_Foty/Qutardus Hal Novemerta fota.jpg",
     "z_Foty/Qa'isa Solnai fota.jpg",
+    "z_Foty/Pernal czyli Czarny Łowca fota.jpg",
     "Untitled.canvas",
     "Untitled 1.canvas"
   ]

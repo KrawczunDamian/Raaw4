@@ -1,0 +1,1 @@
+Czar ofensywny, średnie obrażenia, wygląda na to, że leci w linii prostej. Dokładne parametry nieznane.

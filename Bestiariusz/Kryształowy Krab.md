@@ -1,0 +1,2 @@
+?
+![[Kryształowy krab fota.jpg]]

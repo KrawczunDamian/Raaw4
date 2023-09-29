@@ -1,0 +1,1 @@
+Gdy świeci słońce zawsze ma 3 Akcje

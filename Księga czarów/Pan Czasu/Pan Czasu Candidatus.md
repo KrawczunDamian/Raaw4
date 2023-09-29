@@ -1,0 +1,1 @@
+Czar ten pozwala oznaczyć postać która staje się kandydatem dla Pana Czasu który zamierza powrócić na świat tylko potrzebuje do tego nowego ciała .

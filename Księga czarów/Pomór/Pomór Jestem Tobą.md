@@ -1,0 +1,1 @@
+Wejście w kogoś widzisz i słyszysz to co on. Z4 K18 M15

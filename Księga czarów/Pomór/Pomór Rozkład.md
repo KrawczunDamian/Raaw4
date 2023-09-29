@@ -1,0 +1,1 @@
+Z7 K12 M10 K12 Czarna struga dymu
