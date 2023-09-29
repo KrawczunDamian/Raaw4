@@ -18,6 +18,12 @@
                   "eState": "{}"
                 },
                 {
+                  "title": "Zasady Gry",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"z_Mechanika/Zasady Gry.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":46,\"ch\":92},\"to\":{\"line\":46,\"ch\":92}}}"
+                },
+                {
                   "title": "Gobliny",
                   "icon": "lucide-file-text",
                   "state": "{\"type\":\"pdf\",\"state\":{\"file\":\"z_Mechanika/Rasy/Gobliny.pdf\"}}",
@@ -68,6 +74,31 @@
               ]
             },
             "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Karty postaci/Templatka.pdf"
+              }
+            }
+          },
+          {
+            "id": "f56a1d681dad1845",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 1,
+              "stack": [
+                {
+                  "title": "Zielone Smoki",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Bestiariusz/Zielone Smoki.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
               "type": "markdown",
               "state": {
                 "file": "z_Mechanika/Zasady Gry.md",
@@ -76,7 +107,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -378,17 +410,19 @@
       "obsidian-5e-statblocks:Open Creature Pane": false
     }
   },
-  "active": "6f34330ad5a38950",
+  "active": "f56a1d681dad1845",
   "lastOpenFiles": [
+    "Bestiariusz/Zielone Smoki.md",
+    "z_Mechanika/Zasady Gry.md",
+    "z_PDFy/Populacja_Ras_R4.pdf",
+    "Karty postaci/Templatka.pdf",
     "z_Mechanika/Rasy/Gobliny.pdf",
     "Gildie/Czarno czerwoni",
     "z_Mechanika/Rasy/Irdowie.pdf",
     "z_Mechanika/Rasy/Felpurrowie.pdf",
     "z_Mechanika/Rasy/Delocjanie.png",
     "z_Mechanika/Rasy/Raawjańczycy.pdf",
-    "Karty postaci/Templatka.pdf",
     "Karty postaci/Ergandella karta.pdf",
-    "z_Mechanika/Zasady Gry.md",
     "z_Mechanika/Rasy/Delocjanie.pdf",
     "z_Mechanika/Rasy/368d5efc-d887-4870-a344-a7ac73dcc560.png",
     "z_Mechanika/Rasy/Aoqi.pdf",
@@ -400,10 +434,7 @@
     "Księga czarów/Sailento.md",
     "Księga czarów/Verum.md",
     "Ekwipunek/Bronie/Nasze/Nasze.md",
-    "Bestiariusz/Zielone Smoki.md",
     "Ekwipunek/Bronie/Nasze/Głowa Lewiatana.md",
-    "Karty postaci/Pazok_Rybi_Kciuk karta.pdf",
-    "Karty postaci/Krenus karta.pdf",
     "SESJA 0.md",
     "zz_Templates/1_Story World Templates/People/Template - Cast List.md",
     "Bestiariusz/Bestiariusz.md",

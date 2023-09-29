@@ -3,7 +3,6 @@ Rzucamy K20 dodajemy Szybkość z podstatystyki do swojego wyniku.
 
 Akcje:
 Jak w DnD
-Szybkość każde +1 w Szybkości daje 1 metr ruchu
 
 Zestawy Zbroi:
 Każdy zestaw składa się z 5 elementów :
@@ -18,7 +17,7 @@ lecz mogą podnieść KP/atrybuty lub dodać nowe zdolności
 Levelowanie:
 Milestone'y
 Po zdobyciu levelu:
-Gracz dodaje do Punktów życia modyfikator z Witalności + DX (X zależy od Budowy - jeszcze do ustalenia)
+Gracz dodaje do Punktów życia modyfikator z Budowy + DX (Ustalimy dla każdej postaci osobno X)
 
 Następnie gracz dodaje customowy feat (MG przygotowuje propozycje, albo jeśli Wy macie pomysł to go omawiamy)
 
@@ -43,7 +42,6 @@ Statystyki Główne:
 Ich modyfikator jest dodawany do rzutów
 
 Umiejętności:
-**Witalność** daje co lvl tyle ile wynosi modyfikator
-**Odporność** daje jednorazowo 1Max Punkt Poczytalności 
 **Szczęście** jedno Szczęście daje 1 punkty które można przydzielić dowolnie do ilości/jakości
+**Szybkość** jedna szybkość daje +1 do inicjatywy i 1 metr więcej (kratka) do poruszania się
 
